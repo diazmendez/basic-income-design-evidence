@@ -13,7 +13,7 @@ This file indexes the material moved out of the main text by D046 / D047. Each e
 | S5 | Full 11-item minimum reporting standard, with the blocker each item addresses | `final_scope_c/MINIMUM_REPORTING_FOR_TRANSPORTABLE_BI_EVIDENCE.md` |
 | S6 | Coding manual (v1.4) and a summary of the rule history (rules H, I and J; general clarifications) | `coding_reliability/CODEBOOK_v1.4.md` |
 | S7 | RIME plan matrix, contrast graph and source log | `evidence_universe/layer_b_extraction/rime/` |
-| S8 | **Source-access table**, including the WRP restricted-data route (see below) | `manuscript/POST_D044_ACCESS_RECOVERABILITY_NOTE.md`; D042 source log |
+| S8 | **Source-access table**, including the WRP restricted-data route (see below) | `supplement/S8_ACCESS_STATEMENT.md` (D048D; public); D042 source log |
 | S9 | **Validation**: validators and mutation tests for every stage | `final_scope_c/validate_final_scope_c.py`; `layer_a_geometry/validate_layer_a_geometry.py`; `paper/validate_paper_architecture.py`; `manuscript/validate_manuscript_v1.py`; the mutation harnesses |
 | S10 | **Dimension-level qualitative summaries** (the T0–T3 transport-support labels moved from the main text), with definitions and operational readings | `final_scope_c/FINAL_SCOPE_C_T_SUPPORT.csv`; `layer_a_geometry/LAYER_A_T_SUPPORT_ASSESSMENT.md` |
 | Figure S1 | **Status-changing evidence by dimension** (former main Figure 5) | `figures/fig5_status_changing_evidence.pdf` (built by `figures/build_figures.py`) |
@@ -22,7 +22,7 @@ This file indexes the material moved out of the main text by D046 / D047. Each e
 
 > "For the Vermont Welfare Restructuring Project, restricted-use data are held by a data archive under a secure-download mechanism that requires ethics review, a data-security plan and an institutional data-use agreement. These requirements were not pursued in this independent project. The WRP conditionality contrast is therefore coded from its published report (stars only; no usable uncertainty)."
 
-The draft names no fee, employer or correspondence. Its provenance is the author-supplied access metadata in `POST_D044_ACCESS_RECOVERABILITY_NOTE.md`. It is access metadata, not evidence.
+The draft names no fee, employer or correspondence. Its public authority is [`S8_ACCESS_STATEMENT.md`](S8_ACCESS_STATEMENT.md) (D048D). That file is derived from the private access record, which is not released. It is access metadata, not evidence.
 
 ## S10 definitions (as moved from the main text)
 

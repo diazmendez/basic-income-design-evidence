@@ -319,7 +319,7 @@ def s7():
 
 
 # ---------- S8 access routes (rows anchored to frozen records) ----------
-ACCESS = [("Vermont WRP restricted-use data (conditionality)", "manuscript/POST_D044_ACCESS_RECOVERABILITY_NOTE.md", "ICPSR Study 38060",
+ACCESS = [("Vermont WRP restricted-use data (conditionality)", "manuscript/supplement/S8_ACCESS_STATEMENT.md", "ICPSR Study 38060",
            "Restricted use; secure download requiring an ethics review document, a data-security plan and an institutional data-use agreement; not pursued",
            "Near miss and provenance only; the contrast is coded from the published report (stars only)"),
           ("RIME final technical report", "evidence_universe/layer_b_extraction/rime/SOURCE_LOG.csv", "S-RIME-07",
@@ -337,7 +337,7 @@ def s8():
     for route, auth, anchor, status, use in ACCESS:
         check(anchor in open(os.path.join(RT, auth), encoding="utf-8").read(), f"S8 anchor {anchor}")
         rows.append([tx(route), tx(status), tx(use), r"\texttt{" + tx(auth) + "}"])
-    SUP["S-03"] = ("38060", "ICPSR study number of the Vermont WRP restricted-use data", "manuscript/POST_D044_ACCESS_RECOVERABILITY_NOTE.md")
+    SUP["S-03"] = ("38060", "ICPSR study number of the Vermont WRP restricted-use data", "manuscript/supplement/S8_ACCESS_STATEMENT.md")
     return longtable(r"@{}p{0.2\textwidth}p{0.3\textwidth}p{0.22\textwidth}p{0.24\textwidth}@{}", ["Route", "Access status", "Use in this paper", "Record"], rows,
                      "Source-access status of status-relevant routes (access metadata, not evidence).", "tab:s8")
 

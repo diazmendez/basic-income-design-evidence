@@ -32,3 +32,10 @@
 - 0 overfull boxes;
 - 0 errors;
 - the numeric audit traces 652 numbers, 0 untraced (new claim S-04).
+
+## D048D re-audit
+
+- **p. 16 (S8, Table S15):** the WRP row's record column now cites `manuscript/supplement/S8_ACCESS_STATEMENT.md`. The table is legible, with no overflow.
+- **Page count:** 18, unchanged.
+- **Build:** 0 overfull boxes; 0 errors; the rebuild is deterministic.
+- **Numeric audit:** 652 numbers, 0 untraced. The S-03 authority moved to the public statement.

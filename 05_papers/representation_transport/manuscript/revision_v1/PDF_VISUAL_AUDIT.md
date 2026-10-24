@@ -53,3 +53,15 @@ The PDF went from 17 to 18 pages because of the positioning sentences and the ni
 - **Figure 4.** The re-rendered in-figure note reads "Rows: family-dimension entries…" and is legible. The caption states the unit and names Wageningen as the doubly listed family.
 - **New references.** Laín 2022a / 2022b are disambiguated by plainnat. Doussard et al. 2026 has its chapter note.
 - **Front and end matter.** No page breaks inside the end-matter sections. Front matter unchanged apart from the typo fixes in the GenAI section.
+
+## D048D re-audit (manuscript.pdf, 18 pages)
+
+The only change is the new NIT sentence in §6 (p. 8), which reflows into the RIME paragraph after Figure 3. No page-count change.
+
+**Build:**
+- 0 undefined citations or references;
+- 0 missing files;
+- 0 errors;
+- 0 overfull boxes;
+- 0 bibtex warnings;
+- two builds give the same hash.

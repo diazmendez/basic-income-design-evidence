@@ -2,9 +2,9 @@
 
 This is the replication package for the manuscript *Design variation is not design evidence: an audit of basic-income and guaranteed-income experiments* (Rogelio Diaz-Mendez).
 
-- **Release:** v1.0.0.
+- **Release:** v1.0.1.
 - **Repository:** https://github.com/diazmendez/basic-income-design-evidence.
-- **Source:** this tree is generated from private research-repository commit `3613b7a0352109e48489a22b8e66d2b3865d3df9`.
+- **Source:** this tree is generated from private research-repository commit `057e075f698a2520220b4611825d525846644eb4`.
 
 ## 1. What the paper asks
 
@@ -95,8 +95,8 @@ It stays private and is the source of truth. This repository is a one-way, deriv
 
 | Item | Value |
 |---|---|
-| Release | v1.0.0 |
-| Generated from private commit | `3613b7a0352109e48489a22b8e66d2b3865d3df9` |
+| Release | v1.0.1 |
+| Generated from private commit | `057e075f698a2520220b4611825d525846644eb4` |
 | Manifest | `RELEASE_MANIFEST.csv` (path, bytes, SHA-256, licence) |
 | Release metadata | `RELEASE_INFO.json` |
 

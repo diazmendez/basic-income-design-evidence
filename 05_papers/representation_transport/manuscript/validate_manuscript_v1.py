@@ -158,7 +158,7 @@ AUTH = re.search(r"\\author\{.*?\}\s*\n", tex, re.S)  # title block precedes \be
 NOTE = section("Author note")
 DISC = re.sub(r"\s+", " ", (AUTH.group(0) if AUTH else "") + " " + NOTE)
 EMP = FLAT.replace(NOTE.strip(), " ") if NOTE.strip() else FLAT
-if re.search(r"ICPSR|1,174|Ericsson", EMP):
+if re.search(r"ICPSR|USD ?[0-9]|Ericsson", EMP):
     err.append("[23] access metadata or employer in the main text")
 if not re.search(r"Ericsson AB did not sponsor, fund, commission, supervise or participate in the research", DISC) or "personal capacity" not in DISC \
         or not (AUTH and "Ericsson AB" in AUTH.group(0)) or re.search(r"Ericsson[^.]{0,80}\b(funded|sponsored|supported|commissioned|approved)\b", DISC):

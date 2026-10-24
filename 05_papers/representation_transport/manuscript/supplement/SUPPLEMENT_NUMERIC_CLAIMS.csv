@@ -1,5 +1,5 @@
 claim_id,value,quantity,authoritative_input
 S-01,11,minimum reporting items,final_scope_c/MINIMUM_REPORTING_FOR_TRANSPORTABLE_BI_EVIDENCE.md
 S-02,18,RIME-family source-log entries,evidence_universe/layer_b_extraction/rime/SOURCE_LOG.csv
-S-03,38060,ICPSR study number of the Vermont WRP restricted-use data,manuscript/POST_D044_ACCESS_RECOVERABILITY_NOTE.md
+S-03,38060,ICPSR study number of the Vermont WRP restricted-use data,manuscript/supplement/S8_ACCESS_STATEMENT.md
 S-04,13; 12; 11; 10; 2,Table S3 rows; unique designs (= transport families = dependence groups); isolated family-dimension entries; distinct families among them; bundled comparators,manuscript/revision_v1/NEAR_MISS_ONTOLOGY_COUNTS.csv (scripts/build_ontology_audit.py)
