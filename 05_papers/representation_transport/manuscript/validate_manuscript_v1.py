@@ -7,6 +7,7 @@ and accepts only the figure files listed, with their hashes, in revision_v1/D048
 D048C revises check 44 (only the audited reference additions in revision_v1/D048C_REFERENCE_ADDITIONS.csv) and adds checks 45-48
 (counting-unit / ontology wording; disclosure typos; prior-art positioning; public replication package).
 D049 extends check 44 to the audited D049 additions and adds check 49 (canonical closure).
+D050 adds check 50 (independent-critique revision: disclosure chronology, abstract sensitivity, two-panel Figure 1).
 Usage: python3 -I validate_manuscript_v1.py [--tex PATH] [--bib PATH] [--readiness PATH]
 """
 import csv
@@ -310,6 +311,15 @@ if len(re.findall(r"\\item", re.search(r"\\section\{Limitations\}(.*?)\\section"
         or any(re.search(r"(design|architecture)( features?)? (does|do) not matter|(design|architecture) is irrelevant", x, re.I) and not NEG.search(x.replace("not matter", "").replace("is irrelevant", "")) for x in SENT) \
         or "SCIENTIFICALLY AND EDITORIALLY CLOSED" not in rb(os.path.join(HERE, "revision_v1", "D049_CANONICAL_MANUSCRIPT_AUDIT.md")).decode():
     err.append("[49] canonical closure elements missing (limitations, implications, generic acknowledgment, journals README) or design-irrelevance claim")
+# 50 (D050 independent-critique revision)
+abstract = re.sub(r"\\s+", " ", re.search(r"\\begin\{abstract\}(.*?)\\end\{abstract\}", VIS, re.S).group(1))
+fb = rb(os.path.join(HERE, "figures", "build_figures.py")).decode()
+f1 = fb[fb.index("def fig1():"):fb.index("def fig2():")]
+if re.search(r"adversarial|stress[- ]test", ai, re.I) \
+        or not all(x in abstract for x in ("hours or earnings thresholds", "withdrawal and conditionality each have two supporting experiments", "does not replace the prespecified target")) \
+        or "Panel B is physically separate" not in f1 or "Independent\\nvalidation" in f1 or "\\item \\textbf{Coding reproducibility.}" not in VIS \
+        or "(B) A feasibility rule specific to the prospective discovery-and-validation test" not in FLAT:
+    err.append("[50] D050 revision missing: disclosure chronology, abstract sensitivity, two-panel Figure 1 or reproducibility wording")
 PUB = os.path.join(ROOT, "scripts", "validate_public_release.py")
 if DEFAULT and (not os.path.exists(PUB) or subprocess.run([sys.executable, "-I", PUB], capture_output=True).returncode):
     err.append("[48] public replication package missing or invalid")
@@ -319,4 +329,4 @@ if err:
     for e in err:
         print("  -", e)
     sys.exit(1)
-print(f"PASS (D047: manuscript.tex compiled ({REC.get('pdf_pages')} pp.); {len(cites)} citation keys resolved; {len(rows)} numbers traced; disclosure resolved; bibliography verified; supplement compiled; ontology audited; public release valid; canonical closure; 49 checks)")
+print(f"PASS (D047: manuscript.tex compiled ({REC.get('pdf_pages')} pp.); {len(cites)} citation keys resolved; {len(rows)} numbers traced; disclosure resolved; bibliography verified; supplement compiled; ontology audited; public release valid; canonical closure; independent-critique revision; 50 checks)")

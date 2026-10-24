@@ -1,6 +1,6 @@
 # Environment
 
-The release 1.1.0 outputs were produced and checked with:
+The release 1.2.0 outputs were produced and checked with:
 
 | Component | Version |
 |---|---|

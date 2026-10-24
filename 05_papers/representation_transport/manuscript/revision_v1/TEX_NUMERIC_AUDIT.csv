@@ -1,6 +1,6 @@
 location,text,number,claim_ids,status
-manuscript.tex body line 4,\noindent Governments considering a basic income or guaranteed income must choose its arch,43,N-01;N-02;N-03;N-04;N-05,TRACED
-manuscript.tex body line 4,\noindent Governments considering a basic income or guaranteed income must choose its arch,9,N-01;N-02;N-03;N-04;N-05,TRACED
+manuscript.tex body line 4,\noindent Governments considering a basic or guaranteed income must choose its architectur,43,N-01;N-02;N-03;N-04;N-05,TRACED
+manuscript.tex body line 4,\noindent Governments considering a basic or guaranteed income must choose its architectur,9,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",9,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",2,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",1,N-01;N-02;N-03;N-04;N-05,TRACED
@@ -76,7 +76,7 @@ manuscript.tex body line 134,"Combining the census with the audit layer, the num
 manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",1,N-16,TRACED
 manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",0,N-16,TRACED
 manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",0,N-16,TRACED
-manuscript.tex body line 185,\item \textbf{Coding reliability.} The blinded second coding pass covered 25 support cases,25,REL,TRACED
+manuscript.tex body line 185,\item \textbf{Coding reproducibility.} The blinded second coding pass covered 25 support c,25,REL,TRACED
 manuscript.tex body line 207,\paragraph{Evidence universe.} Layer A was defined by a frame of modern randomised basic-i,43,N-01;N-02,TRACED
 manuscript.tex body line 207,Layer B was frozen at the same time: 9 historical and adjacent experiments selected becaus,9,N-01;N-02,TRACED
 manuscript.tex body line 221,\paragraph{Selection audit.} The 7 census experiments that had been mapped before the cens,7,N-09,TRACED

@@ -81,3 +81,16 @@ The only change is the new NIT sentence in §6 (p. 8), which reflows into the RI
 - 0 overfull boxes;
 - 0 bibtex warnings;
 - deterministic.
+
+## D050 re-audit (manuscript.pdf, 19 pages)
+
+**Inspected:** pp. 1–4, at 60 dpi.
+- **Abstract (p. 1):** it carries the new sensitivity sentence.
+- **Figure 1 (p. 4):** now two separated panels. In panel A, the four boxes are enclosed as one object. Panel B (two independent-family boxes joined by "+") sits below it, with no connecting arrow. The labels are legible at print size.
+
+**Pagination:** page count unchanged; no floats moved off their pages.
+
+**Build:**
+- 0 overfull boxes;
+- 0 undefined citations or references;
+- deterministic.

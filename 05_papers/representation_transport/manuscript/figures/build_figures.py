@@ -59,33 +59,40 @@ def save(fig, name, data_rows, sources):
 
 
 def fig1():
-    # D048A: V -> I -> E -> U are the four comparison-level support stages; independent validation is drawn apart,
-    # as a separate requirement of the prospective discovery-and-validation test (not a fifth stage).
+    # D048A/D050: Panel A is the comparison-level evidence object (V -> I -> E -> U, one comparison at a time).
+    # Panel B is the project-specific feasibility rule of the prospective test (two independent families that each clear
+    # Panel A). Panel B is physically separate and not connected to the chain: independent validation is not a fifth stage.
     stages = [("Variation", "feature differs\nbetween the\ncompared groups", "no difference documented"),
               ("Isolation", "no other feature\nchanges, or it is\nheld fixed", "bundled arms"),
               ("Compatible\nestimand", "employment\nprobability reported\nfor that comparison", "hours only; mixed states;\nnot reported"),
-              ("Usable\nuncertainty", "published SE or CI\nfor that estimate", "stars, p-value or\nverbal only"),
-              ("Independent\nvalidation", "a second\nindependent family\npasses the same\nfour stages", "single source")]
-    fig, ax = plt.subplots(figsize=(7.4, 2.9))
+              ("Usable\nuncertainty", "published SE or CI\nfor that estimate", "stars, p-value or\nverbal only")]
+    fig, ax = plt.subplots(figsize=(7.4, 4.3))
     ax.set_xlim(0, 10.2)
-    ax.set_ylim(0, 3.55)
+    ax.set_ylim(0, 6.0)
     ax.axis("off")
+    # Panel A
+    ax.text(0.1, 5.75, "A  Comparison-level evidence audit (applied to one comparison at a time)", ha="left", va="center", fontsize=8.5, fontweight="bold")
+    ax.add_patch(FancyBboxPatch((0.05, 3.05), 10.1, 2.45, boxstyle="round,pad=0.02,rounding_size=0.1", fc="#f4f4f4", ec="#1a1a1a", lw=0.8))
     for i, (h, test, fail) in enumerate(stages):
-        x = 0.1 + i * 1.95 + (0.35 if i == 4 else 0)
-        ax.add_patch(FancyBboxPatch((x, 1.55), 1.7, 1.2, boxstyle="round,pad=0.02,rounding_size=0.08", fc="white" if i < 4 else "#e6e6e6", ec="#1a1a1a",
-                                    lw=1, ls="-" if i < 4 else "--"))
-        ax.text(x + 0.85, 2.48, h, ha="center", va="center", fontsize=8, fontweight="bold")
-        ax.text(x + 0.85, 1.9, test, ha="center", va="center", fontsize=6)
-        ax.text(x + 0.85, 1.05, "Typical failure:\n" + fail, ha="center", va="center", fontsize=6.3, color="#444444")
+        x = 0.35 + i * 2.5
+        ax.add_patch(FancyBboxPatch((x, 4.0), 1.95, 1.25, boxstyle="round,pad=0.02,rounding_size=0.08", fc="white", ec="#1a1a1a", lw=1))
+        ax.text(x + 0.975, 4.93, h, ha="center", va="center", fontsize=8, fontweight="bold")
+        ax.text(x + 0.975, 4.35, test, ha="center", va="center", fontsize=6)
+        ax.text(x + 0.975, 3.5, "Typical failure:\n" + fail, ha="center", va="center", fontsize=6.2, color="#444444")
         if i < 3:
-            ax.annotate("", xy=(x + 1.93, 2.15), xytext=(x + 1.72, 2.15), arrowprops=dict(arrowstyle="-|>", color="#1a1a1a", lw=1))
-    ax.plot([0.1, 0.1, 7.65, 7.65], [2.9, 3.0, 3.0, 2.9], color="#1a1a1a", lw=0.8)
-    ax.text(3.875, 3.2, "Comparison-level support stages (V \u2192 I \u2192 E \u2192 U)", ha="center", va="center", fontsize=7.5, fontweight="bold")
-    ax.plot([8.25, 8.25, 9.95, 9.95], [2.9, 3.0, 3.0, 2.9], color="#1a1a1a", lw=0.8, ls="--")
-    ax.text(9.1, 3.2, "Requirement of the\nprospective test", ha="center", va="center", fontsize=7, fontstyle="italic")
-    ax.text(5.1, 0.35, "The four stages are evaluated on one comparison at a time. Independent validation is not a fifth stage: it is a requirement of this\n"
-            "prospective test (one family for discovery, one for validation). Operational audit criteria, not a new causal theory.",
-            ha="center", va="center", fontsize=6.6, style="italic")
+            ax.annotate("", xy=(x + 2.47, 4.62), xytext=(x + 1.98, 4.62), arrowprops=dict(arrowstyle="-|>", color="#1a1a1a", lw=1))
+    # Panel B (separate; no arrow from Panel A)
+    ax.text(0.1, 2.6, "B  Project-specific requirement of the prospective test (not a fifth stage)", ha="left", va="center",
+            fontsize=8.5, fontweight="bold")
+    for j, (h, sub) in enumerate([("Independent family 1", "discovery / identification"), ("Independent family 2", "empirical validation")]):
+        x = 0.6 + j * 4.7
+        ax.add_patch(FancyBboxPatch((x, 1.15), 4.0, 1.05, boxstyle="round,pad=0.02,rounding_size=0.08", fc="#e6e6e6", ec="#1a1a1a", lw=1, ls="--"))
+        ax.text(x + 2.0, 1.98, h, ha="center", va="center", fontsize=8, fontweight="bold")
+        ax.text(x + 2.0, 1.52, "a comparison that clears\nall four stages of panel A,\nused for " + sub, ha="center", va="center", fontsize=6.3)
+    ax.text(5.1, 1.67, "+", ha="center", va="center", fontsize=12, fontweight="bold")
+    ax.text(5.1, 0.45, "Panel B is a feasibility rule for this test only, not a property of a single comparison and not a general condition for\n"
+            "transportability: formal transport can use one source under stated assumptions. Operational audit criteria, not a new causal theory.",
+            ha="center", va="center", fontsize=6.4, style="italic")
     save(fig, "fig1_support_chain", [], [os.path.join(RT, "coding_reliability", "CODEBOOK_v1.4.md")])
 
 
