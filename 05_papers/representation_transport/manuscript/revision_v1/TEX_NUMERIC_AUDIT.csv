@@ -1,109 +1,109 @@
 location,text,number,claim_ids,status
-manuscript.tex body line 4,\noindent Policy design needs to know how specific programme features behave across settin,43,N-01;N-02;N-03;N-04;N-05,TRACED
-manuscript.tex body line 4,\noindent Policy design needs to know how specific programme features behave across settin,9,N-01;N-02;N-03;N-04;N-05,TRACED
+manuscript.tex body line 4,\noindent Governments considering a basic income or guaranteed income must choose its arch,43,N-01;N-02;N-03;N-04;N-05,TRACED
+manuscript.tex body line 4,\noindent Governments considering a basic income or guaranteed income must choose its arch,9,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",9,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",2,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",1,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",7,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",2,N-01;N-02;N-03;N-04;N-05,TRACED
 manuscript.tex body line 4,"Under rules specified before the census was coded, each comparison is assessed in four sta",1,N-01;N-02;N-03;N-04;N-05,TRACED
-manuscript.tex body line 18,"We answer this for employment, a central policy outcome and the target specified in advanc",43,N-01;N-02,TRACED
-manuscript.tex body line 18,"The audit layer contains 9 historical and adjacent designs, chosen because they vary progr",9,N-01;N-02,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",9,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",2,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",1,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",7,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",2,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",1,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",2,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",2,N-03;N-04;N-05,TRACED
-manuscript.tex body line 22,"The main result is a structured negative feasibility result. In the census, 9 independent ",0,N-03;N-04;N-05,TRACED
-manuscript.tex body line 54,"\paragraph{Layer A} is a census of a frozen, frame-defined universe of 43 modern randomise",43,F-01;N-01,TRACED
-manuscript.tex body line 54,It is not a census of every experiment of this kind: the frame was assembled from publishe,43,F-01;N-01,TRACED
-manuscript.tex body line 54,It is not a census of every experiment of this kind: the frame was assembled from publishe,39,F-01;N-01,TRACED
-manuscript.tex body line 54,It is not a census of every experiment of this kind: the frame was assembled from publishe,2,F-01;N-01,TRACED
-manuscript.tex body line 54,It is not a census of every experiment of this kind: the frame was assembled from publishe,2,F-01;N-01,TRACED
-manuscript.tex body line 58,"\paragraph{Layer B} is an audit of 9 historical and adjacent designs, frozen before extrac",9,N-02,TRACED
-manuscript.tex body line 69,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",43,N-01;N-03,TRACED
-manuscript.tex body line 69,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",9,N-01;N-03,TRACED
-manuscript.tex body line 69,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",2,N-01;N-03,TRACED
-manuscript.tex body line 69,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",1,N-01;N-03,TRACED
-manuscript.tex body line 72,"\paragraph{Conditionality and cadence.} For conditionality the counts are 7, 2 and 1; the ",7,N-04;N-05,TRACED
-manuscript.tex body line 72,"\paragraph{Conditionality and cadence.} For conditionality the counts are 7, 2 and 1; the ",2,N-04;N-05,TRACED
-manuscript.tex body line 72,"\paragraph{Conditionality and cadence.} For conditionality the counts are 7, 2 and 1; the ",1,N-04;N-05,TRACED
-manuscript.tex body line 72,"For payment cadence, 2 families vary and isolate the feature, 1 reports a compatible estim",2,N-04;N-05,TRACED
-manuscript.tex body line 72,"For payment cadence, 2 families vary and isolate the feature, 1 reports a compatible estim",1,N-04;N-05,TRACED
-manuscript.tex body line 75,"\paragraph{Magnitude, duration and baseline state.} Transfer magnitude varies across 26 fa",26,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,"\paragraph{Magnitude, duration and baseline state.} Transfer magnitude varies across 26 fa",33,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,"Both vary almost entirely between studies, together with population, place, period and the",6,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,"Both vary almost entirely between studies, together with population, place, period and the",6,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,Baseline employment is a state descriptor rather than a policy feature; observed shares ar,6,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,Baseline employment is a state descriptor rather than a policy feature; observed shares ar,2,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,The geometry also exposes measurement gaps. Normalised transfer magnitude cannot be establ,17,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,The geometry also exposes measurement gaps. Normalised transfer magnitude cannot be establ,43,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 75,The geometry also exposes measurement gaps. Normalised transfer magnitude cannot be establ,37,N-01;N-06;N-07;N-08;N-19,TRACED
-manuscript.tex body line 81,\caption{Where design support is lost in the census of 43 frame-defined experiments. % N-0,43,N-01,TRACED
-manuscript.tex body line 93,"Before the census was built, the project worked with a smaller evidence set assembled for ",7,N-09,TRACED
-manuscript.tex body line 93,"Before the census was built, the project worked with a smaller evidence set assembled for ",43,N-09,TRACED
-manuscript.tex body line 93,"Before the census was built, the project worked with a smaller evidence set assembled for ",7,N-09,TRACED
-manuscript.tex body line 93,"Before the census was built, the project worked with a smaller evidence set assembled for ",43,N-09,TRACED
-manuscript.tex body line 95,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,5,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,7,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,6,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,43,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",4,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",7,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",6,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",43,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The full census added design variation in absolute terms: the number of families varying w,3,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The full census added design variation in absolute terms: the number of families varying w,9,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The full census added design variation in absolute terms: the number of families varying w,2,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The full census added design variation in absolute terms: the number of families varying w,7,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The full census added design variation in absolute terms: the number of families varying w,1,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The full census added design variation in absolute terms: the number of families varying w,2,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The added variation did not survive the later stages. Strictly supported isolated families,0,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 95,The added variation did not survive the later stages. Strictly supported isolated families,0,N-09;N-10;N-11;N-12,TRACED
-manuscript.tex body line 102,The 7-experiment subset is nested within the 43-experiment census; it is not an independen,7,N-09,TRACED
-manuscript.tex body line 102,The 7-experiment subset is nested within the 43-experiment census; it is not an independen,43,N-09,TRACED
-manuscript.tex body line 112,The audit layer adds designs that isolate design features more cleanly than most modern pi,3,N-22,TRACED
-manuscript.tex body line 115,"The Rural Income Maintenance Experiment (RIME), conducted in North Carolina and Iowa in th",5,N-21,TRACED
-manuscript.tex body line 115,"The Rural Income Maintenance Experiment (RIME), conducted in North Carolina and Iowa in th",3,N-21,TRACED
-manuscript.tex body line 130,"Combining the census with the audit layer, the number of independent families passing ever",1,N-16,TRACED
-manuscript.tex body line 130,"Combining the census with the audit layer, the number of independent families passing ever",1,N-16,TRACED
-manuscript.tex body line 130,"Combining the census with the audit layer, the number of independent families passing ever",0,N-16,TRACED
-manuscript.tex body line 130,"Combining the census with the audit layer, the number of independent families passing ever",0,N-16,TRACED
-manuscript.tex body line 177,\item \textbf{Coding.} The blinded second coding pass covered 25 cases from the pre-census,25,REL,TRACED
-manuscript.tex body line 193,\paragraph{Evidence universe.} Layer A was defined by a frame of modern randomised basic-i,43,N-01;N-02,TRACED
-manuscript.tex body line 193,Layer B was frozen at the same time: 9 historical and adjacent experiments selected becaus,9,N-01;N-02,TRACED
-manuscript.tex body line 207,\paragraph{Selection audit.} The 7 census experiments that had been mapped before the cens,7,N-09,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",23,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.92,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.884,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",19,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.76,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.490,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",21,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.84,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.606,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",24,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.96,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.936,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",24,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.96,REL,TRACED
-manuscript.tex body line 212,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.918,REL,TRACED
-manuscript.tex body line 217,The blinded second coding pass of 25 cases was performed by GPT-5.6 Sol in a separated con,25,REL,TRACED
+manuscript.tex body line 22,"We therefore ask, for each architecture dimension, whether the experimental literature con",43,N-01;N-02,TRACED
+manuscript.tex body line 22,"The audit layer contains 9 historical and adjacent designs, chosen because they vary progr",9,N-01;N-02,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",9,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",2,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",1,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",7,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",2,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",1,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",2,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",2,N-03;N-04;N-05,TRACED
+manuscript.tex body line 26,"The answer is negative, and specific. In the census, 9 independent experiments vary the wi",0,N-03;N-04;N-05,TRACED
+manuscript.tex body line 58,"\paragraph{Layer A} is a census of a frozen, frame-defined universe of 43 modern randomise",43,F-01;N-01,TRACED
+manuscript.tex body line 58,It is not a census of every experiment of this kind: the frame was assembled from publishe,43,F-01;N-01,TRACED
+manuscript.tex body line 58,It is not a census of every experiment of this kind: the frame was assembled from publishe,39,F-01;N-01,TRACED
+manuscript.tex body line 58,It is not a census of every experiment of this kind: the frame was assembled from publishe,2,F-01;N-01,TRACED
+manuscript.tex body line 58,It is not a census of every experiment of this kind: the frame was assembled from publishe,2,F-01;N-01,TRACED
+manuscript.tex body line 62,"\paragraph{Layer B} is an audit of 9 historical and adjacent designs, frozen before extrac",9,N-02,TRACED
+manuscript.tex body line 73,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",43,N-01;N-03,TRACED
+manuscript.tex body line 73,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",9,N-01;N-03,TRACED
+manuscript.tex body line 73,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",2,N-01;N-03,TRACED
+manuscript.tex body line 73,"\paragraph{Withdrawal.} Of the 43 transport families, 9 vary the withdrawal schedule, 2 is",1,N-01;N-03,TRACED
+manuscript.tex body line 76,"\paragraph{Conditionality and cadence.} For conditionality the counts are 7, 2 and 1; the ",7,N-04;N-05,TRACED
+manuscript.tex body line 76,"\paragraph{Conditionality and cadence.} For conditionality the counts are 7, 2 and 1; the ",2,N-04;N-05,TRACED
+manuscript.tex body line 76,"\paragraph{Conditionality and cadence.} For conditionality the counts are 7, 2 and 1; the ",1,N-04;N-05,TRACED
+manuscript.tex body line 76,"For payment cadence, 2 families vary and isolate the feature, 1 reports a compatible estim",2,N-04;N-05,TRACED
+manuscript.tex body line 76,"For payment cadence, 2 families vary and isolate the feature, 1 reports a compatible estim",1,N-04;N-05,TRACED
+manuscript.tex body line 79,"\paragraph{Magnitude, duration and baseline state.} Transfer magnitude varies across 26 fa",26,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,"\paragraph{Magnitude, duration and baseline state.} Transfer magnitude varies across 26 fa",33,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,"Both vary almost entirely between studies, together with population, place, period and the",6,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,"Both vary almost entirely between studies, together with population, place, period and the",6,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,Baseline employment is a state descriptor rather than a policy feature; observed shares ar,6,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,Baseline employment is a state descriptor rather than a policy feature; observed shares ar,2,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,The geometry also exposes measurement gaps. Normalised transfer magnitude cannot be establ,17,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,The geometry also exposes measurement gaps. Normalised transfer magnitude cannot be establ,43,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 79,The geometry also exposes measurement gaps. Normalised transfer magnitude cannot be establ,37,N-01;N-06;N-07;N-08;N-19,TRACED
+manuscript.tex body line 85,\caption{Where design support is lost in the census of 43 frame-defined experiments. % N-0,43,N-01,TRACED
+manuscript.tex body line 97,"Before the census was built, the project worked with a smaller evidence set assembled for ",7,N-09,TRACED
+manuscript.tex body line 97,"Before the census was built, the project worked with a smaller evidence set assembled for ",43,N-09,TRACED
+manuscript.tex body line 97,"Before the census was built, the project worked with a smaller evidence set assembled for ",7,N-09,TRACED
+manuscript.tex body line 97,"Before the census was built, the project worked with a smaller evidence set assembled for ",43,N-09,TRACED
+manuscript.tex body line 99,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,5,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,7,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,6,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The mapped subset was strongly enriched for usable uncertainty. Between-study magnitude su,43,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",4,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",7,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",6,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,"for duration, the corresponding figures are 4 of 7 and 6 of 43. % N-10",43,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The full census added design variation in absolute terms: the number of families varying w,3,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The full census added design variation in absolute terms: the number of families varying w,9,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The full census added design variation in absolute terms: the number of families varying w,2,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The full census added design variation in absolute terms: the number of families varying w,7,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The full census added design variation in absolute terms: the number of families varying w,1,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The full census added design variation in absolute terms: the number of families varying w,2,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The added variation did not survive the later stages. Strictly supported isolated families,1,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The added variation did not survive the later stages. Strictly supported isolated families,0,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 99,The added variation did not survive the later stages. Strictly supported isolated families,0,N-09;N-10;N-11;N-12,TRACED
+manuscript.tex body line 106,The 7-experiment subset is nested within the 43-experiment census; it is not an independen,7,N-09,TRACED
+manuscript.tex body line 106,The 7-experiment subset is nested within the 43-experiment census; it is not an independen,43,N-09,TRACED
+manuscript.tex body line 116,The audit layer adds designs that isolate design features more cleanly than most modern pi,3,N-22,TRACED
+manuscript.tex body line 119,"The Rural Income Maintenance Experiment (RIME), conducted in North Carolina and Iowa in th",5,N-21,TRACED
+manuscript.tex body line 119,"The Rural Income Maintenance Experiment (RIME), conducted in North Carolina and Iowa in th",3,N-21,TRACED
+manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",1,N-16,TRACED
+manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",1,N-16,TRACED
+manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",0,N-16,TRACED
+manuscript.tex body line 134,"Combining the census with the audit layer, the number of independent families passing ever",0,N-16,TRACED
+manuscript.tex body line 185,\item \textbf{Coding reliability.} The blinded second coding pass covered 25 support cases,25,REL,TRACED
+manuscript.tex body line 207,\paragraph{Evidence universe.} Layer A was defined by a frame of modern randomised basic-i,43,N-01;N-02,TRACED
+manuscript.tex body line 207,Layer B was frozen at the same time: 9 historical and adjacent experiments selected becaus,9,N-01;N-02,TRACED
+manuscript.tex body line 221,\paragraph{Selection audit.} The 7 census experiments that had been mapped before the cens,7,N-09,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",23,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.92,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.884,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",19,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.76,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.490,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",21,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.84,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.606,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",24,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.96,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.936,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",24,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",25,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.96,REL,TRACED
+manuscript.tex body line 226,"\paragraph{Blinded second coding pass.} Before the census was extracted, a blinded second ",0.918,REL,TRACED
+manuscript.tex body line 231,The blinded second coding pass of 25 cases was performed by GPT-5.6 Sol in a separated con,25,REL,TRACED
 generated/table1.tex,Members & 43 experiments (frame status: 39 verified; 2 pending; 2 frame conflict; all reta,43,GENERATED (scripts/build_manuscript_tables.py),TRACED
 generated/table1.tex,Members & 43 experiments (frame status: 39 verified; 2 pending; 2 frame conflict; all reta,39,GENERATED (scripts/build_manuscript_tables.py),TRACED
 generated/table1.tex,Members & 43 experiments (frame status: 39 verified; 2 pending; 2 frame conflict; all reta,2,GENERATED (scripts/build_manuscript_tables.py),TRACED

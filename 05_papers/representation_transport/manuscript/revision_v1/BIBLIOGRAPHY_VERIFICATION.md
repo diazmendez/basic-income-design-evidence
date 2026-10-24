@@ -33,3 +33,15 @@ For each of the five entries:
 - the note "Title … to be verified from the DOI before submission" has been removed.
 
 The DOIs, volumes, pages and years recorded since D024 were all confirmed unchanged. Citation meaning is unchanged: the same keys are cited at the same places.
+
+## D049 additions and completions (2026-10-24)
+
+**Completed:** `chrisp2022`. The given names, institution and date were taken from the report's own title and imprint pages: the local D030 copy of the EPPI / IPPO report, March 2022, ISBN 978-1-911605-27-0. The "to be completed" note has been removed.
+
+**Added references.** Metadata comes from Crossref. Each supported claim was checked against a full text already held for the D030 audit (`revision_v1/D049_REFERENCE_ADDITIONS.csv`).
+
+| Key | Metadata | Notes |
+|---|---|---|
+| `gentilini2020` | World Bank, DOI 10.1596/978-1-4648-1458-7; Crossref issued 2019-11-25, print 2020 | — |
+| `widerquist2018` | Springer / Palgrave, DOI 10.1007/978-3-030-03849-6 | — |
+| `dewispelaere2025` | *Policy Studies Journal* 54(3):e70006, DOI 10.1111/psj.70006; online 2025-02-28, print 2026-08 | The article number is taken from the PDF footer; Crossref gives no pages. The bibliography uses the print year, 2026; the key keeps the online year |

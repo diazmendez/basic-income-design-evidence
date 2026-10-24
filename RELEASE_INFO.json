@@ -1,7 +1,7 @@
 {
-  "files": 111,
+  "files": 113,
   "note": "One-way derived replication tree. The private research repository is the source of truth; do not edit this tree by hand.",
   "public_repository": "https://github.com/diazmendez/basic-income-design-evidence",
-  "source_private_commit": "057e075f698a2520220b4611825d525846644eb4",
-  "version": "1.0.1"
+  "source_private_commit": "62f393c755f373318b2e8a2f2e4fef4e72f5d793",
+  "version": "1.1.0"
 }

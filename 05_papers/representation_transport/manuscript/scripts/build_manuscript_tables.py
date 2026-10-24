@@ -48,7 +48,7 @@ def table1():
 Definition & Census of a frozen, frame-defined set of modern basic-income, guaranteed-income and closely related randomised experiments with employment outcomes & Audited set of historical and adjacent designs with documented variation in programme design, frozen before extraction \\
 Members & %(A)s experiments (frame status: %(comp)s; all retained) & %(B)s design cases \\
 Status & Census of the frame (denominator for prevalence statements) & Audit (not a census; no prevalence is estimated) \\
-Role & Census support geometry; selection audit & Additional support paths, especially isolated historical designs \\
+Role & Census of where design support is lost; selection audit & Additional comparisons, especially isolated historical designs \\
 Unit of independence & Transport family (independent identification source) & Transport family \\
 \bottomrule
 \end{tabular}

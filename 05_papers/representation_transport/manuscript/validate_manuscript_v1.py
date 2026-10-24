@@ -6,6 +6,7 @@ D048A adds checks 40-44 (verified bibliography, V-I-E-U / validation terminology
 and accepts only the figure files listed, with their hashes, in revision_v1/D048A_AUTHORISED_REVISIONS.csv as changes to the frozen inputs.
 D048C revises check 44 (only the audited reference additions in revision_v1/D048C_REFERENCE_ADDITIONS.csv) and adds checks 45-48
 (counting-unit / ontology wording; disclosure typos; prior-art positioning; public replication package).
+D049 extends check 44 to the audited D049 additions and adds check 49 (canonical closure).
 Usage: python3 -I validate_manuscript_v1.py [--tex PATH] [--bib PATH] [--readiness PATH]
 """
 import csv
@@ -273,9 +274,10 @@ if re.search(r"pre-?regist|\bregistered\b", SV + sgen, re.I) or re.search(r"\b52
         or "fig5_status_changing_evidence.pdf" not in stex or "not scientific validation" not in SV or "not a fifth stage" not in SV:
     err.append("[43] supplement wording / structure departs from the frozen claims")
 old_keys = set(re.findall(r"@\w+\{([^,]+),", git("e93f365", f"{MSREL}/references.bib").decode()))
-ADD = {r["key"]: r for r in rd(os.path.join(HERE, "revision_v1", "D048C_REFERENCE_ADDITIONS.csv"))}
+ADD = {r["key"]: r for f in ("D048C_REFERENCE_ADDITIONS.csv", "D049_REFERENCE_ADDITIONS.csv") for r in rd(os.path.join(HERE, "revision_v1", f))}
 PFA = rb(os.path.join(RT, "POLICYMAKER_FIRST_PRIOR_ART_AUDIT.md")).decode()
-if bibkeys != old_keys | set(ADD) or (old_keys - bibkeys) or any(r["doi"] not in PFA or r["doi"].lower() not in bibentry(k).lower() for k, r in ADD.items()):
+D49 = rb(os.path.join(HERE, "revision_v1", "D049_CANONICAL_MANUSCRIPT_AUDIT.md")).decode()
+if bibkeys != old_keys | set(ADD) or (old_keys - bibkeys) or any((r["doi"] not in PFA and r["doi"] not in D49) or r["doi"].lower() not in bibentry(k).lower() for k, r in ADD.items()):
     err.append(f"[44] references differ from D047 + the audited D048C additions: {sorted(bibkeys ^ (old_keys | set(ADD)))}")
 if "D048A" not in D48 or "policymaker-first prior-art audit" not in D48:
     err.append("[44] D048A decision record missing")
@@ -295,6 +297,19 @@ if "P2 = SURVIVES, NARROWED" not in PFA or "Component-level learning is thus an 
         or any(re.search(r"\b(we are the first|first (study|paper) to|novel (framework|theory)|new (causal|transport)[- ]?(framework|theory|method)|prior reviews (failed|ignored))\b", x, re.I) and not NEG.search(x) for x in SENT) \
         or "policymaker-first" not in D48C or not all(k in cites for k in ADD):
     err.append("[47] prior-art positioning missing, novelty overclaimed, or audited references uncited")
+# 49 (D049 canonical closure)
+lim = section("Limitations")
+ack = section("Acknowledgments")
+jr = rb(os.path.join(HERE, "journals", "README.md")).decode()
+if len(re.findall(r"\\item", re.search(r"\\section\{Limitations\}(.*?)\\section", VIS, re.S).group(1))) < 12 \
+        or not all(x in lim for x in ("frame-defined universe", "deliberately conservative", "Model-based historical analyses", "not conventional inter-rater reliability",
+                                       "Validation requirement", "remains a hypothesis")) \
+        or not all(x in FLAT for x in ("For researchers and funders.", "For governments and policy designers.", "For evidence synthesis and public debate.")) \
+        or not ack or re.search(r"\b(De Wispelaere|ICPSR|Riddell|Gonzalez|MDRC)\b", ack) or "did not review this article" not in ack \
+        or "canonical scientific source" not in jr or "must never become independent scientific authorities" not in jr \
+        or any(re.search(r"(design|architecture)( features?)? (does|do) not matter|(design|architecture) is irrelevant", x, re.I) and not NEG.search(x.replace("not matter", "").replace("is irrelevant", "")) for x in SENT) \
+        or "SCIENTIFICALLY AND EDITORIALLY CLOSED" not in rb(os.path.join(HERE, "revision_v1", "D049_CANONICAL_MANUSCRIPT_AUDIT.md")).decode():
+    err.append("[49] canonical closure elements missing (limitations, implications, generic acknowledgment, journals README) or design-irrelevance claim")
 PUB = os.path.join(ROOT, "scripts", "validate_public_release.py")
 if DEFAULT and (not os.path.exists(PUB) or subprocess.run([sys.executable, "-I", PUB], capture_output=True).returncode):
     err.append("[48] public replication package missing or invalid")
@@ -304,4 +319,4 @@ if err:
     for e in err:
         print("  -", e)
     sys.exit(1)
-print(f"PASS (D047: manuscript.tex compiled ({REC.get('pdf_pages')} pp.); {len(cites)} citation keys resolved; {len(rows)} numbers traced; disclosure resolved; bibliography verified; supplement compiled; ontology audited; public release valid; 48 checks)")
+print(f"PASS (D047: manuscript.tex compiled ({REC.get('pdf_pages')} pp.); {len(cites)} citation keys resolved; {len(rows)} numbers traced; disclosure resolved; bibliography verified; supplement compiled; ontology audited; public release valid; canonical closure; 49 checks)")

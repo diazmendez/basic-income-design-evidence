@@ -65,3 +65,19 @@ The only change is the new NIT sentence in §6 (p. 8), which reflows into the RI
 - 0 overfull boxes;
 - 0 bibtex warnings;
 - two builds give the same hash.
+
+## D049 re-audit (manuscript.pdf, 19 pages)
+
+**Method:** all 19 pages rendered at 55 dpi and inspected as contact sheets.
+
+**Findings:**
+- The rewritten Introduction (pp. 1–3) and Discussion (pp. 11–13) flow without stranded headings.
+- Box 1 and Figures 1–4 are unchanged and legible.
+- The Table 1 role labels have been reworded.
+- The bibliography (pp. 17–19) shows the three new references and the completed Chrisp et al. entry. No "to be completed" or "to be verified" note remains.
+
+**Build:**
+- 0 undefined citations or references;
+- 0 overfull boxes;
+- 0 bibtex warnings;
+- deterministic.
