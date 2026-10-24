@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Design variation is not design evidence: replication package for an audit of basic-income and guaranteed-income experiments"
+version: "1.0.0"
+date-released: "2026-10-24"
+authors:
+  - family-names: "Diaz-Mendez"
+    given-names: "Rogelio"
+repository-code: "https://github.com/diazmendez/basic-income-design-evidence"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - basic income
+  - guaranteed income
+  - randomised experiments
+  - evidence synthesis
+  - policy design
+  - replication package

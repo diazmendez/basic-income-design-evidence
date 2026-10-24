@@ -1,0 +1,13 @@
+scope,architecture_dimension,denominator_families,V_Y,V_N,V_UNKNOWN,I_PURE,I_CONDITIONABLE_BUNDLE,I_BUNDLED,I_NOT_ISOLATED,I_NOT_APPLICABLE,I_NOT_ESTABLISHED,E_A,E_A_CAVEAT,E_B,E_C,E_NONE,E_NOT_ESTABLISHED,U_USABLE,U_NONUSABLE,note
+LAYER-A-CENSUS-43,MAGNITUDE_B2,43,26,0,17,0,0,0,26,0,0,7,0,13,0,6,0,7,19,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+LAYER-A-CENSUS-43,WITHDRAWAL,43,9,33,1,1,1,6,0,0,1,1,0,6,0,1,1,7,2,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+LAYER-A-CENSUS-43,CONDITIONALITY,43,7,33,3,2,0,5,0,0,0,1,0,6,0,0,0,7,0,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+LAYER-A-CENSUS-43,CADENCE,43,2,40,1,2,0,0,0,0,0,1,0,0,0,1,0,0,2,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+LAYER-A-CENSUS-43,DURATION,43,33,8,2,0,0,0,33,0,0,8,2,14,0,9,0,8,25,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+LAYER-A-CENSUS-43,BASELINE_EMPLOYMENT,43,6,0,37,0,0,0,6,0,0,3,1,0,0,2,0,2,4,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+PRE-CENSUS-MAPPED-SUBSET-7,MAGNITUDE_B2,7,5,0,2,0,0,0,5,0,0,5,0,0,0,0,0,5,0,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+PRE-CENSUS-MAPPED-SUBSET-7,WITHDRAWAL,7,3,4,0,0,1,1,0,0,1,1,0,1,0,0,1,2,1,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+PRE-CENSUS-MAPPED-SUBSET-7,CONDITIONALITY,7,2,4,1,1,0,1,0,0,0,1,0,1,0,0,0,2,0,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+PRE-CENSUS-MAPPED-SUBSET-7,CADENCE,7,1,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+PRE-CENSUS-MAPPED-SUBSET-7,DURATION,7,6,1,0,0,0,0,6,0,0,5,0,1,0,0,0,5,1,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation
+PRE-CENSUS-MAPPED-SUBSET-7,BASELINE_EMPLOYMENT,7,1,0,6,0,0,0,1,0,0,1,0,0,0,0,0,1,0,counts of transport families among the V = Y cells (V columns: all families); NONE is not a null effect; UNKNOWN is not no variation

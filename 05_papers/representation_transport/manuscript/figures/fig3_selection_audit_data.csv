@@ -1,0 +1,11 @@
+panel,dimension,set,count,denominator
+A,MAGNITUDE_B2,pre-census subset,5,7
+A,MAGNITUDE_B2,full census,6,43
+A,DURATION,pre-census subset,4,7
+A,DURATION,full census,6,43
+B,WITHDRAWAL,families_with_variation subset->census,3->9,7->43
+B,WITHDRAWAL,families_isolated_EA_usableU subset->census,1->1,7->43
+B,CONDITIONALITY,families_with_variation subset->census,2->7,7->43
+B,CONDITIONALITY,families_isolated_EA_usableU subset->census,1->1,7->43
+B,CADENCE,families_with_variation subset->census,1->2,7->43
+B,CADENCE,families_isolated_EA_usableU subset->census,0->0,7->43

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="433.685972pt" height="202.0094pt" viewBox="0 0 433.685972 202.0094" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 202.0094 
+L 433.685972 202.0094 
+L 433.685972 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font: 700 7.5px 'DejaVu Sans'; text-anchor: start" x="7.2" y="21.769228" transform="rotate(-0 7.2 21.769228)">Dimension</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 700 7.5px 'DejaVu Sans'; text-anchor: start" x="71.4816" y="21.769228" transform="rotate(-0 71.4816 21.769228)">Stops at</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 700 7.5px 'DejaVu Sans'; text-anchor: start" x="127.728" y="21.769228" transform="rotate(-0 127.728 21.769228)">Smallest missing evidence object</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 700 7.5px 'DejaVu Sans'; text-anchor: start" x="300.4848" y="21.769228" transform="rotate(-0 300.4848 21.769228)">Possible source of that object</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="7.2" y="51.396697" transform="rotate(-0 7.2 51.396697)">Withdrawal</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="71.4816" y="51.396697" transform="rotate(-0 71.4816 51.396697)">estimand</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 51.396697)">a second independent same-guarantee contrast</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 59.01121)">with a direct employment estimate and SE / CI</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(300.4848 51.396697)">existing isolated designs (in</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(300.4848 59.01121)">principle) or a new trial</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="7.2" y="86.878297" transform="rotate(-0 7.2 86.878297)">Conditionality</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="71.4816" y="86.878297" transform="rotate(-0 71.4816 86.878297)">uncertainty</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 86.878297)">SE / CI for an existing isolated contrast with</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 94.49281)">a compatible estimate</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(300.4848 86.878297)">existing design (uncertainty</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(300.4848 94.49281)">only)</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="7.2" y="122.359898" transform="rotate(-0 7.2 122.359898)">Cadence</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="71.4816" y="122.359898" transform="rotate(-0 71.4816 122.359898)">uncertainty</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 122.359898)">SE / CI for two independent isolated cadence</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 129.97441)">contrasts</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(300.4848 122.359898)">existing designs (reporting /</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(300.4848 129.97441)">uncertainty)</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="7.2" y="157.841498" transform="rotate(-0 7.2 157.841498)">Duration</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="71.4816" y="157.841498" transform="rotate(-0 71.4816 157.841498)">isolation</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 157.841498)">assigned horizon contrasts with employment</text>
+    <text style="font: 6.8px 'DejaVu Sans'" transform="translate(127.728 165.45601)">estimates and SE / CI in two families</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 6.8px 'DejaVu Sans'; text-anchor: start" x="300.4848" y="157.841498" transform="rotate(-0 300.4848 157.841498)">likely new designs</text>
+   </g>
+   <g id="text_21">
+    <text style="font: italic 6.4px 'DejaVu Sans'; text-anchor: start" x="7.2" y="193.4784" transform="rotate(-0 7.2 193.4784)">Requirements that would change the evidence status; no claim is made that data access or new trials are currently feasible.</text>
+   </g>
+  </g>
+ </g>
+</svg>

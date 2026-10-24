@@ -1,0 +1,7 @@
+architecture_dimension,scope_layer,experiment_id,experiment_name,transport_family_id,support_case_id,support_path,cell_representative,V,I,E,U,usable_U,strict_gate_stage_reached,failure_reason,secondary_extensive_note
+CADENCE,A,X016,Compton Pledge,TF-COMPTON,S-SG13-CADENCE-employment,C-SG13-04,YES,Y,PURE,E-A,EXACT-P,NO,E,U: EXACT-P (not SE / CI),
+CADENCE,A,X045,Movement for Economic Equity (Newark),LA-TF-X045-NEWARK-NMEE,X045-CADENCE-WITHIN-STUDY,LA-X045-C3,YES,Y,PURE,NONE,NONE,NO,I,E: NONE (no published focal employment result),
+CADENCE,A,X052,Participatiewet experiment Almere,LA-TF-X052-ALMERE-PW (UNRESOLVED-INDEPENDENCE),NONE (no support row),LA-X052-C1,YES,UNKNOWN,NOT-ESTABLISHED,NOT-ESTABLISHED,NOT-ESTABLISHED,NO,NONE,V: UNKNOWN,
+CADENCE,B,X068,Feed the Future Nigeria Livelihoods Project cash,TF-FNLP,S-SG-FNLP-CADENCE-employment,C-FNLP-01,YES,Y,CONDITIONABLE-BUNDLE,E-A (caveat),VERBAL,NO,E,U: VERBAL (not SE / CI),
+CADENCE,B,X002,Rural Income-Maintenance Experiment (RIME),LB-TF-X002-RIME,LB-X002-CADENCE-CAD-WITHIN,NOT-APPLICABLE,YES,N,NOT-APPLICABLE,NONE,NONE,NO,NONE,V: N,
+CADENCE,B,X063,GiveDirectly Kenya long-term UBI study,TF-GD-KENYA-UBI,S-SG10-CADENCE-enterprise activity,C-SG10-05,NO,Y,PURE,NONE,NONE,NO,I,E: NONE (no published focal employment result),

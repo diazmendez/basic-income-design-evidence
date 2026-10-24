@@ -1,0 +1,2 @@
+claim_id,quantity,value,authoritative_input,script
+F-01,Layer A frame verification composition (VERIFIED; PENDING; FRAME-CONFLICT),39; 2; 2,evidence_universe/layer_a_reconciliation/RECONCILED_LAYER_A_MANIFEST.csv,manuscript/scripts/build_manuscript_tables.py

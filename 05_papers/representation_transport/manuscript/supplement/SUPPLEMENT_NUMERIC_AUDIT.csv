@@ -1,0 +1,653 @@
+location,text,number,claim_ids,status
+supplement.tex body line 10,"Layer A is a census of a frozen, frame-defined universe of 43 modern experiments. It is no",43,F-01;N-01;N-02,TRACED
+supplement.tex body line 10,"Of the 43 frame members, 39 were verified against primary sources, 2 remained pending and ",43,F-01;N-01;N-02,TRACED
+supplement.tex body line 10,"Of the 43 frame members, 39 were verified against primary sources, 2 remained pending and ",39,F-01;N-01;N-02,TRACED
+supplement.tex body line 10,"Of the 43 frame members, 39 were verified against primary sources, 2 remained pending and ",2,F-01;N-01;N-02,TRACED
+supplement.tex body line 10,"Of the 43 frame members, 39 were verified against primary sources, 2 remained pending and ",2,F-01;N-01;N-02,TRACED
+supplement.tex body line 10,"Layer B is a separate audit of 9 historical and adjacent designs; it is not a census, and ",9,F-01;N-01;N-02,TRACED
+supplement.tex body line 18,Table~\ref{tab:s2} shows every Layer A cell: the 43 experiments by the six coded dimension,43,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",9,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",7,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",2,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",1,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",1,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",0,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",26,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",33,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",6,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",6,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",6,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,"Each cell gives the variation code and, where the feature varies, the isolation, estimand ",2,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,Magnitude cannot be computed for 17 experiments and baseline employment is unknown for 37;,17,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 18,Magnitude cannot be computed for 17 experiments and baseline employment is unknown for 37;,37,N-01;N-03;N-04;N-05;N-06;N-07;N-08;N-19,TRACED
+supplement.tex body line 28,"Table~\ref{tab:s3} (the former main-text Table~3) contains 13 rows, each one dimension--de",13,N-07;S-04,TRACED
+supplement.tex body line 28,"Table~\ref{tab:s3} (the former main-text Table~3) contains 13 rows, each one dimension--de",12,N-07;S-04,TRACED
+supplement.tex body line 28,"Table~\ref{tab:s3} (the former main-text Table~3) contains 13 rows, each one dimension--de",11,N-07;S-04,TRACED
+supplement.tex body line 28,"Table~\ref{tab:s3} (the former main-text Table~3) contains 13 rows, each one dimension--de",10,N-07;S-04,TRACED
+supplement.tex body line 28,"Table~\ref{tab:s3} (the former main-text Table~3) contains 13 rows, each one dimension--de",2,N-07;S-04,TRACED
+supplement.tex body line 28,\item \textbf{Duration.} Horizon variation is abundant between studies (33 families vary t,33,N-07;S-04,TRACED
+supplement.tex body line 28,\item \textbf{Duration.} Horizon variation is abundant between studies (33 families vary t,6,N-07;S-04,TRACED
+supplement.tex body line 46,Tables~\ref{tab:s4withdrawal}--\ref{tab:s4cadence} list every support path for the three d,43,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,Tables~\ref{tab:s4withdrawal}--\ref{tab:s4cadence} list every support path for the three d,9,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",13,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",5,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",1,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",1,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",9,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",3,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",2,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",1,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",3,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",3,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",2,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",0,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",1,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",1,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",0,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",2,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",0,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 46,"In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand,",3,N-01;N-02;N-13;N-14;N-15;N-16;N-17;N-22,TRACED
+supplement.tex body line 59,Table~\ref{tab:s5} gives the full list of 11 reporting items behind Box~1 of the main arti,11,S-01,TRACED
+supplement.tex body line 65,"All support codes follow the frozen coding manual (v1.4, \texttt{coding\_reliability/CODEB",25,REL,TRACED
+supplement.tex body line 71,"The Rural Income-Maintenance Experiment assigned 5 negative-income-tax plans, which contai",5,N-21;S-02,TRACED
+supplement.tex body line 71,"The Rural Income-Maintenance Experiment assigned 5 negative-income-tax plans, which contai",3,N-21;S-02,TRACED
+supplement.tex body line 71,"The bounded search of the RIME-family record (Table~\ref{tab:s7src}, 18 logged sources) di",18,N-21;S-02,TRACED
+supplement.tex body line 78,Table~\ref{tab:s8} records the access status of routes that bear on the near-miss cases. I,38060,S-03,TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,0.27,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,0.24,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,0.25,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.07\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,"\texttt{X034} & CLIMB (Columbia, SC) & VERIFIED & \texttt{LA-\allowbreak{}TF-\allowbreak{}",01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X039} & In Her Hands (Atlanta) & VERIFIED & \texttt{LA-\allowbreak{}TF-\allowbreak,02,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X052} & Participatiewet experiment Almere & FRAME-\allowbreak{}CONFLICT & \texttt{,04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X053} & Participatiewet experiment Deventer & VERIFIED & \texttt{LA-\allowbreak{}T,03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X053} & Participatiewet experiment Deventer & VERIFIED & \texttt{LA-\allowbreak{}T,04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X054} & Participatiewet experiment Groningen & VERIFIED & \texttt{LA-\allowbreak{},05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X056} & Participatiewet experiment Tilburg & VERIFIED & \texttt{LA-\allowbreak{}TF,06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X056} & Participatiewet experiment Tilburg & VERIFIED & \texttt{LA-\allowbreak{}TF,08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X057} & Participatiewet experiment Wageningen & VERIFIED & \texttt{LA-\allowbreak{,07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X057} & Participatiewet experiment Wageningen & VERIFIED & \texttt{LA-\allowbreak{,08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X058} & Participatiewet experiment Apeldoorn \& Epe & PENDING & \texttt{LA-\allowb,08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X058} & Participatiewet experiment Apeldoorn \& Epe & PENDING & \texttt{LA-\allowb,09,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X058} & Participatiewet experiment Apeldoorn \& Epe & PENDING & \texttt{LA-\allowb,10,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X059} & Participatiewet experiment Nijmegen & VERIFIED & \texttt{LA-\allowbreak{}T,11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X060} & Participatiewet experiment Utrecht & VERIFIED & \texttt{TF-\allowbreak{}UT,03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X060} & Participatiewet experiment Utrecht & VERIFIED & \texttt{TF-\allowbreak{}UT,05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X060} & Participatiewet experiment Utrecht & VERIFIED & \texttt{TF-\allowbreak{}UT,06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X060} & Participatiewet experiment Utrecht & VERIFIED & \texttt{TF-\allowbreak{}UT,07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X060} & Participatiewet experiment Utrecht & VERIFIED & \texttt{TF-\allowbreak{}UT,11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X060} & Participatiewet experiment Utrecht & VERIFIED & \texttt{TF-\allowbreak{}UT,12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X061} & Participatiewet experiment Amsterdam & VERIFIED & \texttt{LA-\allowbreak{},12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s1_frame.tex,\texttt{X065} & Garcia-\allowbreak{}Warren-\allowbreak{}Watson GI RCT (South Carolina) & V,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,0.28,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,0.105,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.06\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X008} & Ontario Basic Income Pilot & ? & Y B 0 0 & ? & N & ? & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X008} & Ontario Basic Income Pilot & ? & Y B 0 0 & ? & N & ? & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X015} & Stockton SEED & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X015} & Stockton SEED & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X015} & Stockton SEED & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X015} & Stockton SEED & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X025} & Paterson Guaranteed Income Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X025} & Paterson Guaranteed Income Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X025} & Paterson Guaranteed Income Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X025} & Paterson Guaranteed Income Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X029} & Arlington's Guarantee & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X029} & Arlington's Guarantee & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X029} & Arlington's Guarantee & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X029} & Arlington's Guarantee & ? & N & N & N & Y NI 0 0 & Y NI 0 0 \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X030} & Young Families Success Fund (Baltimore) & Y NI 0 0 & N & N & N & Y NI 0 0 ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X030} & Young Families Success Fund (Baltimore) & Y NI 0 0 & N & N & N & Y NI 0 0 ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X030} & Young Families Success Fund (Baltimore) & Y NI 0 0 & N & N & N & Y NI 0 0 ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X030} & Young Families Success Fund (Baltimore) & Y NI 0 0 & N & N & N & Y NI 0 0 ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,"\texttt{X034} & CLIMB (Columbia, SC) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,"\texttt{X034} & CLIMB (Columbia, SC) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,"\texttt{X034} & CLIMB (Columbia, SC) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,"\texttt{X034} & CLIMB (Columbia, SC) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X035} & Denver Basic Income Project & ? & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X035} & Denver Basic Income Project & ? & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X045} & Movement for Economic Equity (Newark) & Y NI B st & N & N & Y P 0 0 & Y NI,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X045} & Movement for Economic Equity (Newark) & Y NI B st & N & N & Y P 0 0 & Y NI,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X046} & Project Resilience (Kingston) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X046} & Project Resilience (Kingston) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X046} & Project Resilience (Kingston) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X046} & Project Resilience (Kingston) & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X047} & Providence GI Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X047} & Providence GI Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X047} & Providence GI Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X047} & Providence GI Pilot & Y NI 0 0 & N & N & N & Y NI 0 0 & ? \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X051} & Guaranteed Basic Income Pilot (Rochester) & ? & N & N & N & Y NI 0 0 & ? \,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X051} & Guaranteed Basic Income Pilot (Rochester) & ? & N & N & N & Y NI 0 0 & ? \,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X058} & Participatiewet experiment Apeldoorn \& Epe & Y NI 0 0 & N & N & N & N & ?,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\texttt{X058} & Participatiewet experiment Apeldoorn \& Epe & Y NI 0 0 & N & N & N & N & ?,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\midrule \multicolumn{2}{@{}l}{Families with V = Y} & 26 & 9 & 7 & 2 & 33 & 6 \\,26,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\midrule \multicolumn{2}{@{}l}{Families with V = Y} & 26 & 9 & 7 & 2 & 33 & 6 \\,9,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\midrule \multicolumn{2}{@{}l}{Families with V = Y} & 26 & 9 & 7 & 2 & 33 & 6 \\,7,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\midrule \multicolumn{2}{@{}l}{Families with V = Y} & 26 & 9 & 7 & 2 & 33 & 6 \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\midrule \multicolumn{2}{@{}l}{Families with V = Y} & 26 & 9 & 7 & 2 & 33 & 6 \\,33,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\midrule \multicolumn{2}{@{}l}{Families with V = Y} & 26 & 9 & 7 & 2 & 33 & 6 \\,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Families with V = UNKNOWN} & 17 & 1 & 3 & 1 & 2 & 37 \\,17,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Families with V = UNKNOWN} & 17 & 1 & 3 & 1 & 2 & 37 \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Families with V = UNKNOWN} & 17 & 1 & 3 & 1 & 2 & 37 \\,3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Families with V = UNKNOWN} & 17 & 1 & 3 & 1 & 2 & 37 \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Families with V = UNKNOWN} & 17 & 1 & 3 & 1 & 2 & 37 \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Families with V = UNKNOWN} & 17 & 1 & 3 & 1 & 2 & 37 \\,37,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Strict ($\dagger$): within-study or between-study} & 6 & 1 & 1 & 0 &,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Strict ($\dagger$): within-study or between-study} & 6 & 1 & 1 & 0 &,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Strict ($\dagger$): within-study or between-study} & 6 & 1 & 1 & 0 &,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Strict ($\dagger$): within-study or between-study} & 6 & 1 & 1 & 0 &,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Strict ($\dagger$): within-study or between-study} & 6 & 1 & 1 & 0 &,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,\multicolumn{2}{@{}l}{Strict ($\dagger$): within-study or between-study} & 6 & 1 & 1 & 0 &,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,"{\scriptsize Cell = V, then (when V = Y) I, E and U codes. V: Y varies, N no variation, ? ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s2_grid.tex,"{\scriptsize Cell = V, then (when V = Y) I, E and U codes. V: Y varies, N no variation, ? ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,0.17,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,0.19,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,0.15,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,0.23,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.17\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & PURE & NONE (employment d,12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & PURE & NONE (employment d,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s3_duration.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & PURE & NONE (employment d,04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.045,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.035,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.045,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.28,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,A & Finnish basic income experiment & \texttt{C-\allowbreak{}SG03-\allowbreak{}01} & YES &,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,A & B-\allowbreak{}MINCOME & \texttt{C-\allowbreak{}SG11-\allowbreak{}03} & YES & Y & CB &,03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,A & Ontario Basic Income Pilot & \texttt{LA-\allowbreak{}X008-\allowbreak{}C1} & YES & Y &,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,A & Ontario Basic Income Pilot & \texttt{LA-\allowbreak{}X008-\allowbreak{}C1} & YES & Y &,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & New Jersey-\allowbreak{}Pennsylvania NIT & \texttt{C-\allowbreak{}NJP-\allowbreak{}02},02,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & New Jersey-\allowbreak{}Pennsylvania NIT & \texttt{C-\allowbreak{}NJP-\allowbreak{}02},0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & New Jersey-\allowbreak{}Pennsylvania NIT & \texttt{C-\allowbreak{}NJP-\allowbreak{}02},0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Seattle-\allowbreak{}Denver Income Maintenance Experiment (SIME/\allowbreak{}DIME) & \,04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Seattle-\allowbreak{}Denver Income Maintenance Experiment (SIME/\allowbreak{}DIME) & \,05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Gary NIT & \texttt{C-\allowbreak{}SG08-\allowbreak{}02} & YES & Y & P & 0 & 0 & NO & I,02,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Gary NIT & \texttt{C-\allowbreak{}SG08-\allowbreak{}02} & YES & Y & P & 0 & 0 & NO & I,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Gary NIT & \texttt{C-\allowbreak{}SG08-\allowbreak{}02} & YES & Y & P & 0 & 0 & NO & I,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C0,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C1,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{RIME-\allowbreak{}C1,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_withdrawal.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.045,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.035,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.045,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.28,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,A & Finnish basic income experiment & \texttt{C-\allowbreak{}SG03-\allowbreak{}01;\allowbr,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,A & Finnish basic income experiment & \texttt{C-\allowbreak{}SG03-\allowbreak{}01;\allowbr,02,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,A & B-\allowbreak{}MINCOME & \texttt{C-\allowbreak{}SG11-\allowbreak{}01} & YES & ? & ne &,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,A & Participatiewet experiment Utrecht & \texttt{C-\allowbreak{}SG12-\allowbreak{}01} & YE,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,B & Vermont Welfare Restructuring Project & \texttt{C-\allowbreak{}WRP-\allowbreak{}01} & ,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,B & Minnesota Family Investment Program & \texttt{C-\allowbreak{}MFIP-\allowbreak{}01} & Y,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{NOT-\allowbreak{}APP,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{NOT-\allowbreak{}APP,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_conditionality.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.045,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.035,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.045,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,0.28,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.03\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,A & Compton Pledge & \texttt{C-\allowbreak{}SG13-\allowbreak{}04} & YES & Y & P & A & p & ,04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,A & Movement for Economic Equity (Newark) & \texttt{LA-\allowbreak{}X045-\allowbreak{}C3} ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,A & Movement for Economic Equity (Newark) & \texttt{LA-\allowbreak{}X045-\allowbreak{}C3} ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,B & Feed the Future Nigeria Livelihoods Project cash & \texttt{C-\allowbreak{}FNLP-\allowb,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{NOT-\allowbreak{}APP,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,B & Rural Income-\allowbreak{}Maintenance Experiment (RIME) & \texttt{NOT-\allowbreak{}APP,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,B & GiveDirectly Kenya long-\allowbreak{}term UBI study & \texttt{C-\allowbreak{}SG10-\all,05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,B & GiveDirectly Kenya long-\allowbreak{}term UBI study & \texttt{C-\allowbreak{}SG10-\all,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,B & GiveDirectly Kenya long-\allowbreak{}term UBI study & \texttt{C-\allowbreak{}SG10-\all,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_cadence.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.14,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.14,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.14,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,New Jersey-\allowbreak{}Pennsylvania NIT & Withdrawal & Y & P & 0 (reported object: NONE) ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,New Jersey-\allowbreak{}Pennsylvania NIT & Withdrawal & Y & P & 0 (reported object: NONE) ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Rural Income-\allowbreak{}Maintenance Experiment (RIME) & Cadence & N & -- & 0 (reported o,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Rural Income-\allowbreak{}Maintenance Experiment (RIME) & Cadence & N & -- & 0 (reported o,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Rural Income-\allowbreak{}Maintenance Experiment (RIME) & Conditionality & N & -- & 0 (rep,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Rural Income-\allowbreak{}Maintenance Experiment (RIME) & Conditionality & N & -- & 0 (rep,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Rural Income-\allowbreak{}Maintenance Experiment (RIME) & Withdrawal & Y & P & 0 (reported,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Rural Income-\allowbreak{}Maintenance Experiment (RIME) & Withdrawal & Y & P & 0 (reported,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Seattle-\allowbreak{}Denver Income Maintenance Experiment (SIME/\allowbreak{}DIME) & Durat,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Seattle-\allowbreak{}Denver Income Maintenance Experiment (SIME/\allowbreak{}DIME) & Durat,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Seattle-\allowbreak{}Denver Income Maintenance Experiment (SIME/\allowbreak{}DIME) & Durat,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Gary NIT & Withdrawal & Y & P & 0 (reported object: NONE) & 0 & NO & PARKED & E: NONE (no ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Gary NIT & Withdrawal & Y & P & 0 (reported object: NONE) & 0 & NO & PARKED & E: NONE (no ,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Mincome (Manitoba) & Withdrawal & Y & NI & ne & ne & NO & NONE & I: pooled NIT plans vs co,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,Mincome (Manitoba) & Withdrawal & Y & NI & ne & ne & NO & NONE & I: pooled NIT plans vs co,02,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Cadence & Y & P & 0 (employment doma,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Cadence & Y & P & 0 (employment doma,05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & Y & P & 0 (employment dom,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & Y & P & 0 (employment dom,12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & Y & P & 0 (employment dom,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,GiveDirectly Kenya long-\allowbreak{}term UBI study & Duration & Y & P & 0 (employment dom,04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_layer_b.tex,"{\scriptsize Codes as in Table~\ref{tab:s2}: V: Y, N, ? unknown, ne not established. I: P ",0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.14,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,0.22,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.14\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,26,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,26,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Magnitude (B2) & 26/0/0/0 & 0/0/0/0 & 26/0/0/0 & 0 & 6 & NONE \\,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,9,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,4,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,5,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Withdrawal & 9/2/1/1 & 4/3/0/0 & 13/5/1/1 & 2 & 0 & TF-\allowbreak{}BMINCOME \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,7,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,9,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Conditionality & 7/2/1/1 & 2/1/1/0 & 9/3/2/1 & 2 & 0 & TF-\allowbreak{}UTRECHT \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Cadence & 2/2/1/0 & 1/1/1/0 & 3/3/2/0 & 0 & 0 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,33,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,35,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Duration & 33/0/0/0 & 2/1/0/0 & 35/1/0/0 & 0 & 6 & NONE \\,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,Baseline employment & 6/0/0/0 & 0/0/0/0 & 6/0/0/0 & 0 & 2 & NONE \\,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,"{\scriptsize Union counts are support counts, not a census prevalence: Layer A has denomin",43,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s4_union.tex,"{\scriptsize Union counts are support counts, not a census prevalence: Layer A has denomin",9,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,0.04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,0.32,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,0.11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,0.48,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.04\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,"1 & Exact architecture of each intervention arm: transfer rule, withdrawal schedule, condi",1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,2 & Exact assignment counts and analysis populations & I & RIME plan probabilities NR;\all,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,"3 & Direct, pre-\allowbreak{}specified arm-\allowbreak{}arm contrasts for each architectur",3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,4 & Exact employment positive /\allowbreak{} negative states & E & Rules H /\allowbreak{} ,4,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,5 & ITT-\allowbreak{}compatible estimates where applicable & E & RIME analyses only post-\,5,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,6 & SE or CI for every focal architecture contrast & U & WRP conditionality (stars only);\,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,7 & Covariance or factorial-\allowbreak{}estimator information when contrasts share a cont,7,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,8 & Baseline mean household income and the ex-\allowbreak{}ante transfer schedule (for B2),8,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,8 & Baseline mean household income and the ex-\allowbreak{}ante transfer schedule (for B2),101,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,9 & Baseline employment definition and share for the assigned population & BASELINE & QS-\,9,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,9 & Baseline employment definition and share for the assigned population & BASELINE & QS-\,105,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,10 & Implementation differences and services by arm & I & Bundled arms: MFIP (mandate + se,10,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,"11 & Machine-\allowbreak{}readable tables /\allowbreak{} data, or a reproducibility route ",11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s5_reporting.tex,"11 & Machine-\allowbreak{}readable tables /\allowbreak{} data, or a reproducibility route ",005,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.18,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,v1 & D033 & frozen codebook for the blinded second coding pass & before second coding & --,25,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,v1.2 & D038 & rule H: employment-\allowbreak{}domain positive-\allowbreak{}state rule & af,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s6_codebook.tex,v1.3 & D039 & rule I: outcome-\allowbreak{}definition sufficiency & after census Batch 2 &,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.18,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.22,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P50-\allowbreak{}50} & 50 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P50-\allowbreak{}50} & 50 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P50-\allowbreak{}50} & 50 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}30} & 75 & 30 \\,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}30} & 75 & 30 \\,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}30} & 75 & 30 \\,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}50} & 75 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}50} & 75 & 50 \\,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}50} & 75 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}70} & 75 & 70 \\,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}70} & 75 & 70 \\,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P75-\allowbreak{}70} & 75 & 70 \\,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P100-\allowbreak{}50} & 100 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P100-\allowbreak{}50} & 100 & 50 \\,100,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{X002-\allowbreak{}P100-\allowbreak{}50} & 100 & 50 \\,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.14,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.18,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.09,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.09,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.17,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C01} & A-\allowbreak{}SAME-\allowbreak{}G-\allowbreak{}DIFF-\all,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C01} & A-\allowbreak{}SAME-\allowbreak{}G-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C02} & A-\allowbreak{}SAME-\allowbreak{}G-\allowbreak{}DIFF-\all,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C02} & A-\allowbreak{}SAME-\allowbreak{}G-\allowbreak{}DIFF-\all,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C03} & A-\allowbreak{}SAME-\allowbreak{}G-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C03} & A-\allowbreak{}SAME-\allowbreak{}G-\allowbreak{}DIFF-\all,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C04} & B-\allowbreak{}SAME-\allowbreak{}T-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C04} & B-\allowbreak{}SAME-\allowbreak{}T-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C05} & B-\allowbreak{}SAME-\allowbreak{}T-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C05} & B-\allowbreak{}SAME-\allowbreak{}T-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C06} & B-\allowbreak{}SAME-\allowbreak{}T-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C06} & B-\allowbreak{}SAME-\allowbreak{}T-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C07} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C07} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C08} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C08} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C09} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C09} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C10} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C10} & E-\allowbreak{}DIFF-\allowbreak{}G-\allowbreak{}DIFF-\all,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C11} & C-\allowbreak{}TREATMENT-\allowbreak{}VS-\allowbreak{}CON,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C12} & C-\allowbreak{}TREATMENT-\allowbreak{}VS-\allowbreak{}CON,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C13} & C-\allowbreak{}TREATMENT-\allowbreak{}VS-\allowbreak{}CON,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C14} & C-\allowbreak{}TREATMENT-\allowbreak{}VS-\allowbreak{}CON,70,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C15} & C-\allowbreak{}TREATMENT-\allowbreak{}VS-\allowbreak{}CON,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C17} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & TAXDEV slo,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C17} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & TAXDEV slo,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C17} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & TAXDEV slo,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C17} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & TAXDEV slo,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C18} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & GARDEV slo,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C18} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & GARDEV slo,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C18} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & GARDEV slo,75,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{RIME-\allowbreak{}C18} & M-\allowbreak{}RESPONSE-\allowbreak{}SURFACE & GARDEV slo,50,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,0.1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,0.28,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,0.08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,0.12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,0.3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.1\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}01} & Summary Report: Rural Income Maintenance Ex,01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}01} & Summary Report: Rural Income Maintenance Ex,10,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}01} & Summary Report: Rural Income Maintenance Ex,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}02} & Summary Report SR-\allowbreak{}10: executiv,02,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}02} & Summary Report SR-\allowbreak{}10: executiv,10,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}02} & Summary Report SR-\allowbreak{}10: executiv,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}03} & The Rural Income Maintenance Experiment: A ,03,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}03} & The Rural Income Maintenance Experiment: A ,138,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}03} & The Rural Income Maintenance Experiment: A ,381,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}03} & The Rural Income Maintenance Experiment: A ,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}RIME-\allowbreak{}04} & The Rural Income Maintenance Experiment, We",04,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}RIME-\allowbreak{}04} & The Rural Income Maintenance Experiment, We",459,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}RIME-\allowbreak{}04} & The Rural Income Maintenance Experiment, We",77,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}RIME-\allowbreak{}04} & The Rural Income Maintenance Experiment, We",1977,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}05} & Job Change Behavior in the Rural Income Mai,05,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}05} & Job Change Behavior in the Rural Income Mai,555,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}05} & Job Change Behavior in the Rural Income Mai,79,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}05} & Job Change Behavior in the Rural Income Mai,1979,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}06} & The rural income maintenance experiment (Fo,06,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}06} & The rural income maintenance experiment (Fo,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}06} & The rural income maintenance experiment (Fo,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}07} & Rural Income Maintenance Experiment: Final ,07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}07} & Rural Income Maintenance Experiment: Final ,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}07} & Rural Income Maintenance Experiment: Final ,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}08} & Welfare in Rural Areas: The North Carolina-,08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}08} & Welfare in Rural Areas: The North Carolina-,1978,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}09} & Purpose and Design of the Rural Income Main,09,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}09} & Purpose and Design of the Rural Income Main,1977,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}09} & Purpose and Design of the Rural Income Main,403,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}10} & Journal of Human Resources special issue on,10,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}10} & Journal of Human Resources special issue on,1977,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}10} & Journal of Human Resources special issue on,1977,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}11} & Bibliography of Rural Income Maintenance Ex,11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}11} & Bibliography of Rural Income Maintenance Ex,2026,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}11} & Bibliography of Rural Income Maintenance Ex,10,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}11} & Bibliography of Rural Income Maintenance Ex,19,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}12} & Rural income maintenance experiment: compos,12,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}12} & Rural income maintenance experiment: compos,1973,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}13} & Rural NIT experiment records;\allowbreak{} ,13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}13} & Rural NIT experiment records;\allowbreak{} ,1966,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}13} & Rural NIT experiment records;\allowbreak{} ,1974,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}13} & Rural NIT experiment records;\allowbreak{} ,1966,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}13} & Rural NIT experiment records;\allowbreak{} ,1974,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}14} & RIME participant-\allowbreak{}level data (1,14,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}14} & RIME participant-\allowbreak{}level data (1,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}14} & RIME participant-\allowbreak{}level data (1,1976,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}15} & Lessons from the Income Maintenance Experim,15,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}15} & Lessons from the Income Maintenance Experim,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}15} & Lessons from the Income Maintenance Experim,1986,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,16,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,1977,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,67,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,370,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,375,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,\texttt{S-\allowbreak{}RIME-\allowbreak{}16} & RIME school-\allowbreak{}performance articl,1977,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}EXCL-\allowbreak{}01} & Effective Tax Rates in the AFDC Program, 19",01,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}EXCL-\allowbreak{}01} & Effective Tax Rates in the AFDC Program, 19",1975,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}EXCL-\allowbreak{}01} & Effective Tax Rates in the AFDC Program, 19",1979,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}EXCL-\allowbreak{}01} & Effective Tax Rates in the AFDC Program, 19",744,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}EXCL-\allowbreak{}01} & Effective Tax Rates in the AFDC Program, 19",84,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s7_rime.tex,"\texttt{S-\allowbreak{}EXCL-\allowbreak{}01} & Effective Tax Rates in the AFDC Program, 19",1984,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.22,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,0.24,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.2\linewidth-2\tabcolsep\re,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,NJ-\allowbreak{}P and RIME data access & Not established & Reporting item 11;\allowbreak{},11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s8_access.tex,FNLP restricted or embargoed data & Restricted or embargoed & Reporting item 11;\allowbrea,11,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.42\linewidth-2\tabcolsep\r,0.42,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.42\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.42\linewidth-2\tabcolsep\r,0.54,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.42\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{coding\_\allowbreak{}reliability/\allowbreak{}validate\_\allowbreak{}blind\_\allow,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{coding\_\allowbreak{}reliability/\allowbreak{}validate\_\allowbreak{}reliability\_,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{evidence\_\allowbreak{}universe/\allowbreak{}layer\_\allowbreak{}a\_\allowbreak{}e,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{evidence\_\allowbreak{}universe/\allowbreak{}layer\_\allowbreak{}a\_\allowbreak{}e,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{evidence\_\allowbreak{}universe/\allowbreak{}layer\_\allowbreak{}a\_\allowbreak{}e,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{evidence\_\allowbreak{}universe/\allowbreak{}layer\_\allowbreak{}a\_\allowbreak{}g,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{evidence\_\allowbreak{}universe/\allowbreak{}layer\_\allowbreak{}a\_\allowbreak{}r,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{evidence\_\allowbreak{}universe/\allowbreak{}layer\_\allowbreak{}b\_\allowbreak{}e,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{final\_\allowbreak{}scope\_\allowbreak{}c/\allowbreak{}validate\_\allowbreak{}fina,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}validate\_\allowbreak{}manuscript\_\allowbreak{}v0.py} & D,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}validate\_\allowbreak{}manuscript\_\allowbreak{}v0.py} & D,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}validate\_\allowbreak{}manuscript\_\allowbreak{}v0.py} & D,30,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}validate\_\allowbreak{}manuscript\_\allowbreak{}v0.py} & D,34,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}review/\allowbreak{}validate\_\allowbreak{}d046\_\allowbre,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}review/\allowbreak{}validate\_\allowbreak{}d046\_\allowbre,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}review/\allowbreak{}validate\_\allowbreak{}d046\_\allowbre,26,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{manuscript/\allowbreak{}review/\allowbreak{}validate\_\allowbreak{}d046\_\allowbre,29,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s9_validators.tex,\texttt{paper/\allowbreak{}validate\_\allowbreak{}paper\_\allowbreak{}architecture.py} & D,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.08,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,0.88,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.08\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,0.16,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,0.07,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,0.6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,0.13,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,\begin{longtable}{@{}>{\raggedright\arraybackslash}p{\dimexpr 0.16\linewidth-2\tabcolsep\r,2,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Magnitude (B2) & T3 & 6 independent families with between-\allowbreak{}study B2 and E-\all,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Withdrawal & T1 & 1 independent family with local strict-\allowbreak{}compatible support;\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Withdrawal & T1 & 1 independent family with local strict-\allowbreak{}compatible support;\,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Conditionality & T2 & 3 independent families with variation and a strict E-\allowbreak{}A-,3,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Conditionality & T2 & 3 independent families with variation and a strict E-\allowbreak{}A-,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Cadence & T1 & 1 independent family with local strict-\allowbreak{}compatible support;\all,1,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Cadence & T1 & 1 independent family with local strict-\allowbreak{}compatible support;\all,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Duration & T2 & 35 independent families with different promised horizons;\allowbreak{} nev,35,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Duration & T2 & 35 independent families with different promised horizons;\allowbreak{} nev,0,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Baseline employment & T2 & 6 independent families with observed baseline shares (2 with E-,6,GENERATED (scripts/build_supplement_tables.py),TRACED
+supplement/generated/s10_tlabels.tex,Baseline employment & T2 & 6 independent families with observed baseline shares (2 with E-,2,GENERATED (scripts/build_supplement_tables.py),TRACED

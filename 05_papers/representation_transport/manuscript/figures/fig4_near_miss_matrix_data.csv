@@ -1,0 +1,12 @@
+dimension,experiment_id,V,I,E,U,usable_U,stage_states
+Withdrawal,X007,Y,CONDITIONABLE-BUNDLE,E-A,SE,YES,pass;pass;pass;pass
+Withdrawal,X057,Y,PURE,E-B,SE,YES,pass;pass;broader E-B only;broader E-B only
+Withdrawal,X001,Y,PURE,NONE,NONE,NO,pass;pass;not passed;not reached
+Withdrawal,X004,Y,PURE,NONE,NONE,NO,pass;pass;not passed;not reached
+Withdrawal,X002,Y,PURE,NONE,NONE,NO,pass;pass;not passed;not reached
+Conditionality,X057,Y,PURE,E-B,SE,YES,pass;pass;broader E-B only;broader E-B only
+Conditionality,X060,Y,PURE,E-A,SE,YES,pass;pass;pass;pass
+Conditionality,X066,Y,PURE,E-A,STARS,NO,pass;pass;pass;not passed
+Cadence,X016,Y,PURE,E-A,EXACT-P,NO,pass;pass;pass;not passed
+Cadence,X045,Y,PURE,NONE,NONE,NO,pass;pass;not passed;not reached
+Cadence,X068,Y,CONDITIONABLE-BUNDLE,E-A (caveat),VERBAL,NO,pass;pass;pass;not passed

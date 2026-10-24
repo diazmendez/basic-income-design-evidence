@@ -1,0 +1,136 @@
+% supplement.tex -- Supplementary Information for manuscript v1 (D048A). Publication-facing source of the supplement.
+% Provenance: every visible scientific number in the prose carries a trailing comment naming its authority:
+%   N-xx  -> paper/PAPER_NUMERIC_CLAIMS.csv;  F-01 -> revision_v1/V1_NUMERIC_CLAIMS.csv;  REL -> D034 pre-adjudication reliability table;
+%   S-xx  -> supplement/SUPPLEMENT_NUMERIC_CLAIMS.csv (written by scripts/build_supplement_tables.py from frozen records).
+% All tables are generated (generated/*.tex by scripts/build_supplement_tables.py; table_s3_near_miss.tex by scripts/build_manuscript_tables.py).
+% Build: python3 -I scripts/build_supplement.py (tables, two compiles, build record, numeric audit). Do not hand-edit numbers.
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{pdflscape}
+\usepackage{microtype}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\setlist{nosep,leftmargin=1.5em}
+\graphicspath{{../figures/}}
+\renewcommand{\thesection}{S\arabic{section}}
+\renewcommand{\thetable}{S\arabic{table}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\setlength{\LTcapwidth}{\textwidth}
+\usepackage{tocloft}
+\setlength{\cftsecnumwidth}{2.6em}
+
+\title{Supplementary Information\\[0.3em] \large Design variation is not design evidence: an audit of basic-income and guaranteed-income experiments}
+\author{Rogelio Diaz-Mendez}
+\date{}
+
+\begin{document}
+\maketitle
+
+\paragraph{Scope.} This supplement documents the frozen evidence behind the main article. It adds no analysis: every table is generated from the frozen coded tables of the project repository, and every count is checked against the frozen values before the supplement is built. Study references are listed in the main article. The four comparison-level support stages are variation (V), isolation (I), compatible estimand (E) and usable uncertainty (U); independent validation is a separate requirement of the prospective discovery-and-validation test, not a fifth stage, and formal transport from a single source under stated assumptions remains possible.
+
+\tableofcontents
+
+\section{Evidence frame status}
+
+Layer A is a census of a frozen, frame-defined universe of 43 modern experiments. It is not a census of every basic-income or guaranteed-income experiment. % N-01
+Of the 43 frame members, 39 were verified against primary sources, 2 remained pending and 2 had unresolved frame conflicts; all were retained, and none of the four unverified members belongs to a strictly supported family (Table~\ref{tab:s1}). % N-01 F-01
+Layer B is a separate audit of 9 historical and adjacent designs; it is not a census, and the two layers are never pooled into a single denominator. % N-02
+
+\input{generated/s1_frame.tex}
+
+\section{Full architecture-support grid}
+
+Table~\ref{tab:s2} shows every Layer A cell: the 43 experiments by the six coded dimensions, in the employment domain. % N-01
+Each cell gives the variation code and, where the feature varies, the isolation, estimand and uncertainty codes of the cell's representative comparison. The summary rows are recomputed from the cells. They reproduce the frozen counts: 9, 7 and 2 families vary withdrawal, conditionality and cadence, of which 1, 1 and 0 pass the within-study strict path; 26 and 33 families vary magnitude and promised duration and 6 report a baseline employment share, of which 6, 6 and 2 have a compatible estimate with usable uncertainty between studies, where isolation does not apply. % N-03 N-04 N-05 N-06 N-07 N-08
+Magnitude cannot be computed for 17 experiments and baseline employment is unknown for 37; unknown is recorded as unknown, never as no variation. % N-19
+
+\begin{landscape}
+\input{generated/s2_grid.tex}
+\end{landscape}
+
+\section{Near-miss inventory}
+
+Table~\ref{tab:s3} (the former main-text Table~3) contains 13 rows, each one dimension--design entry, representing 12 unique designs; each design is a distinct experiment, transport family and dependence group. The rows are the 11 isolated family--dimension support entries shown in Figure~4 of the main article (from 10 distinct transport families, because Wageningen is isolated on both withdrawal and conditionality) and 2 bundled key comparators (Seattle-Denver for withdrawal and Minnesota MFIP for conditionality), each with the stage at which it stops. The row-by-row derivation is in \texttt{revision\_v1/NEAR\_MISS\_ONTOLOGY\_AUDIT.csv}. % S-04
+\begin{itemize}
+\item \textbf{Withdrawal.} B-MINCOME passes the strict path. RIME, New Jersey-Pennsylvania and Gary are useful isolated designs, but no compatible direct employment contrast with usable uncertainty was located in the sources read. For RIME, no compatible published direct contrast was located in the accessible RIME-family record after the bounded search (Section~\ref{sec:rime}); we do not conclude that the contrast was never estimated. Wageningen is isolated but reports a broader extensive-margin object.
+\item \textbf{Conditionality.} Utrecht passes the strict path. The Vermont Welfare Restructuring Project has a pure contrast and a compatible employment estimate, but only significance stars are published in the accessible evidence, so usable uncertainty is blocked.
+\item \textbf{Cadence.} Compton reports a compatible estimate with an exact p-value only; the Nigeria FNLP cash arms report an employment probability with a definitional caveat and a verbal statement only; Newark has a clean cadence design but no focal employment result.
+\item \textbf{Duration.} Horizon variation is abundant between studies (33 families vary the promised duration; 6 have a compatible estimate with usable uncertainty), but it is entangled with study identity, and no adequately isolated employment-domain duration pair exists. The within-study horizon contrasts of SIME/DIME and the GiveDirectly Kenya study concern hours or other outcomes outside the strict target (Table~\ref{tab:s3dur}). % N-07
+\end{itemize}
+
+\begin{table}[ht]
+\centering\small
+\caption{Where key designs stop (former main Table~3). One row per dimension--design entry: isolated family--dimension entries and two bundled key comparators. Isolation, estimand and uncertainty are the codes of the focal comparison; ``Stops at'' is the first strict stage not passed.}\label{tab:s3}
+\resizebox{\textwidth}{!}{\input{table_s3_near_miss.tex}}
+\end{table}
+
+\input{generated/s3_duration.tex}
+
+\section{Full support paths and the Layer B audit}
+
+Tables~\ref{tab:s4withdrawal}--\ref{tab:s4cadence} list every support path for the three dimensions that can vary within a study, in both layers, with the last strict stage reached and the reason for stopping. Table~\ref{tab:s4layerb} lists every audited Layer B row. Table~\ref{tab:s4union} combines both layers as support counts, not as a census prevalence: Layer A has a denominator of 43, and Layer B is a design audit of 9 members. % N-01 N-02
+In the union, withdrawal counts are 13, 5, 1 and 1 (varies, isolated, compatible estimand, usable uncertainty); conditionality 9, 3, 2 and 1; cadence 3, 3, 2 and 0. The independent strict families are therefore 1, 1 and 0, and the prospective test's requirement of two independent families is not met for any dimension. Under the broader extensive-margin sensitivity, withdrawal and conditionality would each have 2 supporting families and cadence 0; this sensitivity does not replace the strict result. Layer B adds 3 isolated withdrawal families but no independent strict pair. % N-13 N-14 N-15 N-16 N-17 N-22
+
+\begin{landscape}
+\input{generated/s4_withdrawal.tex}
+\input{generated/s4_conditionality.tex}
+\input{generated/s4_cadence.tex}
+\input{generated/s4_layer_b.tex}
+\end{landscape}
+\input{generated/s4_union.tex}
+
+\section{Minimum reporting for the prospective test}
+
+Table~\ref{tab:s5} gives the full list of 11 reporting items behind Box~1 of the main article, with the observed blocker each addresses. It is the minimum reporting that this project's prospective test needs. It is not a universal reporting guideline or a standard proposed for other purposes. Satisfying these items does not guarantee support, because isolation is a design property that reporting cannot supply. % S-01
+
+\input{generated/s5_reporting.tex}
+
+\section{Codebook and global rule clarifications}
+
+All support codes follow the frozen coding manual (v1.4, \texttt{coding\_reliability/CODEBOOK\_v1.4.md}), with the code values summarised in Table~\ref{tab:s2}. Ambiguities discovered during extraction were resolved by general rules, each frozen before the next stage and re-applied to every existing case, never by case-specific exceptions (Table~\ref{tab:s6}). The blinded second coding pass covered 25 pre-census support cases under v1 of the manual; rules H, I and J were adopted after it, were re-applied globally, and were not independently second-coded. % REL
+
+\input{generated/s6_codebook.tex}
+
+\section{RIME bounded search}\label{sec:rime}
+
+The Rural Income-Maintenance Experiment assigned 5 negative-income-tax plans, which contain 3 same-guarantee contrasts of the withdrawal rate (Tables~\ref{tab:s7arms} and~\ref{tab:s7con}). These contrasts are pure designs for withdrawal. % N-21
+The bounded search of the RIME-family record (Table~\ref{tab:s7src}, 18 logged sources) did not locate a published direct employment contrast between same-guarantee plans with usable uncertainty; the reported labour results are pooled programme effects, post-randomisation subsamples or model-based response-surface slopes. No compatible published direct contrast was located in the accessible RIME-family record after the bounded search. This is a bounded conclusion about the accessible record; we do not conclude that the contrast was never estimated, the final technical report was not accessible, and access to the participant-level data was not located (it was not sought). % S-02
+
+\input{generated/s7_rime.tex}
+
+\section{Source access and recoverability}
+
+Table~\ref{tab:s8} records the access status of routes that bear on the near-miss cases. It is access metadata, not evidence. For the Vermont Welfare Restructuring Project, restricted-use data (ICPSR Study 38060) are held by a data archive under a secure-download mechanism that requires ethics review, a data-security plan and an institutional data-use agreement. These requirements were not pursued in this independent project. The WRP conditionality contrast is therefore coded from its published report (stars only; no usable uncertainty), and the restricted data are not treated as observed evidence. Whether an existing design could yield usable uncertainty from such a route is discussed in the main article as a descriptive observation; it is not an additional audit stage. % S-03
+
+\input{generated/s8_access.tex}
+
+\section{Software validation and mutation testing}
+
+The counts are produced by deterministic scripts from frozen coded tables, and the repository contains automated validators for each stage (Table~\ref{tab:s9}). The validators recompute every count from the coded tables, check the gate logic and the family counting, confirm that frozen inputs are unchanged and that rebuilt outputs are identical, and check the manuscript wording against the frozen claims. Each validator is accompanied by mutation tests: deliberate corruptions of the inputs or of the manuscript, each of which the validator must reject, together with an unmodified control that must pass. The results are recorded in the decision records. These are software quality-assurance checks of internal consistency; they are not scientific validation of the coding or of the conclusions.
+
+\input{generated/s9_validators.tex}
+
+\section{Transport-support labels}
+
+The transport-support labels are supplementary provenance and are not used as a construct in the main article. Table~\ref{tab:s10def} defines the labels and Table~\ref{tab:s10} gives the final label of each dimension: magnitude T3, withdrawal T1, conditionality T2, cadence T1, duration T2 and baseline employment T2. Baseline employment is a state summary and is never labelled T3. % N-18
+
+\input{generated/s10_tlabels.tex}
+
+\section*{Figure S1}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=\textwidth]{fig5_status_changing_evidence.pdf}
+\caption{Status-changing evidence by dimension (former main Figure~5). For each dimension, the binding support stage and the evidence object whose availability would change its feasibility status. The figure shows no effect sizes, signs or statistical significance, and it makes no claim about whether any route is accessible.}
+\label{fig:s1}
+\end{figure}
+
+\end{document}

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="441.797438pt" height="175.176pt" viewBox="0 0 441.797438 175.176" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 175.176 
+L 441.797437 175.176 
+L 441.797437 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 20.915895 98.683808 
+L 84.878013 98.683808 
+Q 88.116601 98.683808 88.116601 95.060687 
+L 88.116601 46.148552 
+Q 88.116601 42.525431 84.878013 42.525431 
+L 20.915895 42.525431 
+Q 17.677307 42.525431 17.677307 46.148552 
+L 17.677307 95.060687 
+Q 17.677307 98.683808 20.915895 98.683808 
+z
+" clip-path="url(#p0ca84dce7a)" style="fill: #ffffff; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 99.856483 98.683808 
+L 163.818601 98.683808 
+Q 167.057189 98.683808 167.057189 95.060687 
+L 167.057189 46.148552 
+Q 167.057189 42.525431 163.818601 42.525431 
+L 99.856483 42.525431 
+Q 96.617895 42.525431 96.617895 46.148552 
+L 96.617895 95.060687 
+Q 96.617895 98.683808 99.856483 98.683808 
+z
+" clip-path="url(#p0ca84dce7a)" style="fill: #ffffff; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 178.797072 98.683808 
+L 242.759189 98.683808 
+Q 245.997778 98.683808 245.997778 95.060687 
+L 245.997778 46.148552 
+Q 245.997778 42.525431 242.759189 42.525431 
+L 178.797072 42.525431 
+Q 175.558483 42.525431 175.558483 46.148552 
+L 175.558483 95.060687 
+Q 175.558483 98.683808 178.797072 98.683808 
+z
+" clip-path="url(#p0ca84dce7a)" style="fill: #ffffff; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 257.73766 98.683808 
+L 321.699778 98.683808 
+Q 324.938366 98.683808 324.938366 95.060687 
+L 324.938366 46.148552 
+Q 324.938366 42.525431 321.699778 42.525431 
+L 257.73766 42.525431 
+Q 254.499072 42.525431 254.499072 46.148552 
+L 254.499072 95.060687 
+Q 254.499072 98.683808 257.73766 98.683808 
+z
+" clip-path="url(#p0ca84dce7a)" style="fill: #ffffff; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 350.847072 98.683808 
+L 414.809189 98.683808 
+Q 418.047778 98.683808 418.047778 95.060687 
+L 418.047778 46.148552 
+Q 418.047778 42.525431 414.809189 42.525431 
+L 350.847072 42.525431 
+Q 347.608483 42.525431 347.608483 46.148552 
+L 347.608483 95.060687 
+Q 347.608483 98.683808 350.847072 98.683808 
+z
+" clip-path="url(#p0ca84dce7a)" style="fill: #e6e6e6; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 18.486954 36.637859 
+L 18.486954 32.108958 
+L 324.128719 32.108958 
+L 324.128719 36.637859 
+" clip-path="url(#p0ca84dce7a)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 348.418131 36.637859 
+L 348.418131 32.108958 
+L 417.238131 32.108958 
+L 417.238131 36.637859 
+" clip-path="url(#p0ca84dce7a)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 8px 'DejaVu Sans'; text-anchor: middle" x="52.896954" y="57.866745" transform="rotate(-0 52.896954 57.866745)">Variation</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(31.621798 76.863811)">feature differs</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(34.04711 83.582498)">between the</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(26.602423 90.301186)">compared groups</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(30.178071 118.633631)">Typical failure:</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(11.28004 125.688252)">no difference documented</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 90.113243 70.60462 
+Q 92.366686 70.60462 93.502094 70.60462 
+" style="fill: none; stroke: #1a1a1a; stroke-linecap: round"/>
+    <path d="M 90.102094 68.90462 
+L 93.502094 70.60462 
+L 90.102094 72.30462 
+L 90.102094 68.90462 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font: 700 8px 'DejaVu Sans'; text-anchor: middle" x="131.837542" y="57.866745" transform="rotate(-0 131.837542 57.866745)">Isolation</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(107.372074 76.863811)">no other feature</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(107.945355 83.582498)">changes, or it is</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(117.077074 90.301186)">held fixed</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(109.118659 118.633631)">Typical failure:</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(110.151761 125.688252)">bundled arms</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 169.053831 70.60462 
+Q 171.307274 70.60462 172.442683 70.60462 
+" style="fill: none; stroke: #1a1a1a; stroke-linecap: round"/>
+    <path d="M 169.042683 68.90462 
+L 172.442683 70.60462 
+L 169.042683 72.30462 
+L 169.042683 68.90462 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font: 700 8px 'DejaVu Sans'" transform="translate(185.133131 53.38762)">Compatible</text>
+    <text style="font: 700 8px 'DejaVu Sans'" transform="translate(189.823131 62.34587)">estimand</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(191.815318 76.863811)">employment</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(180.907506 83.582498)">probability reported</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(181.137662 90.301186)">for that comparison</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(188.059248 115.10632)">Typical failure:</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(170.865662 122.160941)">hours only; mixed states;</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(191.061099 129.215563)">not reported</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 247.994419 70.60462 
+Q 250.247862 70.60462 251.383271 70.60462 
+" style="fill: none; stroke: #1a1a1a; stroke-linecap: round"/>
+    <path d="M 247.983271 68.90462 
+L 251.383271 70.60462 
+L 247.983271 72.30462 
+L 247.983271 68.90462 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font: 700 8px 'DejaVu Sans'" transform="translate(274.443094 53.35637)">Usable</text>
+    <text style="font: 700 8px 'DejaVu Sans'" transform="translate(263.617469 62.31462)">uncertainty</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(262.417781 80.223154)">published SE or CI</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(264.394031 86.941842)">for that estimate</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(266.999836 115.10632)">Typical failure:</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(264.092977 122.160941)">stars, p-value or</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(272.151563 129.215563)">verbal only</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 700 8px 'DejaVu Sans'" transform="translate(354.156881 53.38762)">Independent</text>
+    <text style="font: 700 8px 'DejaVu Sans'" transform="translate(360.337506 62.34587)">validation</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(369.336568 73.504467)">a second</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(353.650787 80.223154)">independent family</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(357.551256 86.941842)">passes the same</text>
+    <text style="font: 6px 'DejaVu Sans'" transform="translate(365.957818 93.660529)">four stages</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(360.109248 118.633631)">Typical failure:</text>
+    <text style="fill: #444444; font: 6.3px 'DejaVu Sans'" transform="translate(362.04256 125.688252)">single source</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 700 7.5px 'DejaVu Sans'; text-anchor: middle" x="171.307836" y="25.091389" transform="rotate(-0 171.307836 25.091389)">Comparison-level support stages (V → I → E → U)</text>
+   </g>
+   <g id="text_17">
+    <text style="font: italic 7px 'DejaVu Sans'" transform="translate(348.742506 21.063483)">Requirement of the</text>
+    <text style="font: italic 7px 'DejaVu Sans'" transform="translate(354.499459 28.901952)">prospective test</text>
+   </g>
+   <g id="text_18">
+    <text style="font: italic 6.6px 'DejaVu Sans'" transform="translate(7.2 150.250754)">The four stages are evaluated on one comparison at a time. Independent validation is not a fifth stage: it is a requirement of this</text>
+    <text style="font: italic 6.6px 'DejaVu Sans'" transform="translate(33.483469 157.641311)">prospective test (one family for discovery, one for validation). Operational audit criteria, not a new causal theory.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0ca84dce7a">
+   <rect x="14.438719" y="7.2" width="412.92" height="160.776"/>
+  </clipPath>
+ </defs>
+</svg>

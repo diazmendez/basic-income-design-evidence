@@ -1,0 +1,14 @@
+quantity,value
+table_s3_rows (dimension x design entries),13
+table_s3_unique_designs (experiments),12
+table_s3_unique_transport_families,12
+table_s3_unique_dependence_groups,12
+table_s3_isolated_family_dimension_entries,11
+table_s3_bundled_key_comparators,2
+figure4_rows (isolated family-dimension entries),11
+figure4_unique_transport_families,10
+strict_supporting_family_dimension_entries,2
+broader_EB_sensitivity_family_dimension_entries (isolated E-B + usable U),2
+figure4_isolated_entries_withdrawal,5
+figure4_isolated_entries_conditionality,3
+figure4_isolated_entries_cadence,3
